@@ -375,6 +375,9 @@
         GITHUB_TOKEN = savedToken;
         showMainApp();
         loadLeads();
+      } else {
+        // Show token entry form
+        document.getElementById('token-setup').classList.remove('hidden');
       }
       setupNavigation();
     });
