@@ -579,25 +579,28 @@
 
     function isFollowUpDue(nextFollowUp) {
       if (!nextFollowUp) return false;
-      const today = new Date();
-      today.setHours(0, 0, 0, 0);
-      const followUpDate = new Date(nextFollowUp);
-      followUpDate.setHours(0, 0, 0, 0);
-      return followUpDate <= today;
+      const today = getTodayPacific();
+      return nextFollowUp <= today;
     }
 
     function isOverdue(nextFollowUp) {
       if (!nextFollowUp) return false;
-      const today = new Date();
-      today.setHours(0, 0, 0, 0);
-      const followUpDate = new Date(nextFollowUp);
-      followUpDate.setHours(0, 0, 0, 0);
-      return followUpDate < today;
+      const today = getTodayPacific();
+      return nextFollowUp < today;
     }
 
     function formatDate(dateString) {
       if (!dateString) return '-';
-      return new Date(dateString).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+      // Parse YYYY-MM-DD and format without timezone conversion
+      const parts = dateString.split('-');
+      if (parts.length === 3) {
+        const year = parts[0];
+        const month = parseInt(parts[1]);
+        const day = parseInt(parts[2]);
+        const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+        return `${months[month - 1]} ${day}, ${year}`;
+      }
+      return dateString;
     }
 
     function getFilteredLeads() {
