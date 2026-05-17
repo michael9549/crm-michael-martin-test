@@ -364,12 +364,12 @@
           <div class="form-group">
             <label class="form-label">Quick Set Follow-Up</label>
             <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-              <button type="button" class="button button-secondary" onclick="setFollowUp(1)" style="padding: 8px 12px; font-size: 12px;">1 Day</button>
-              <button type="button" class="button button-secondary" onclick="setFollowUp(2)" style="padding: 8px 12px; font-size: 12px;">2 Days</button>
-              <button type="button" class="button button-secondary" onclick="setFollowUp(3)" style="padding: 8px 12px; font-size: 12px;">3 Days</button>
-              <button type="button" class="button button-secondary" onclick="setFollowUp(7)" style="padding: 8px 12px; font-size: 12px;">1 Week</button>
-              <button type="button" class="button button-secondary" onclick="setFollowUp(14)" style="padding: 8px 12px; font-size: 12px;">2 Weeks</button>
-              <button type="button" class="button button-secondary" onclick="setFollowUp(30)" style="padding: 8px 12px; font-size: 12px;">30 Days</button>
+              <button type="button" class="button" onclick="setFollowUp(1)" style="padding: 8px 12px; font-size: 12px; background: #10b981; color: white; border: none; border-radius: 6px; cursor: pointer;">1 Day</button>
+              <button type="button" class="button" onclick="setFollowUp(2)" style="padding: 8px 12px; font-size: 12px; background: #10b981; color: white; border: none; border-radius: 6px; cursor: pointer;">2 Days</button>
+              <button type="button" class="button" onclick="setFollowUp(3)" style="padding: 8px 12px; font-size: 12px; background: #10b981; color: white; border: none; border-radius: 6px; cursor: pointer;">3 Days</button>
+              <button type="button" class="button" onclick="setFollowUp(7)" style="padding: 8px 12px; font-size: 12px; background: #10b981; color: white; border: none; border-radius: 6px; cursor: pointer;">1 Week</button>
+              <button type="button" class="button" onclick="setFollowUp(14)" style="padding: 8px 12px; font-size: 12px; background: #10b981; color: white; border: none; border-radius: 6px; cursor: pointer;">2 Weeks</button>
+              <button type="button" class="button" onclick="setFollowUp(30)" style="padding: 8px 12px; font-size: 12px; background: #10b981; color: white; border: none; border-radius: 6px; cursor: pointer;">30 Days</button>
             </div>
           </div>
           <div class="form-group">
@@ -800,7 +800,6 @@
         source: document.getElementById('lead-source').value,
         status: document.getElementById('lead-status').value,
         temperature: document.getElementById('lead-temp').value,
-        followUpCount: parseInt(document.getElementById('lead-followup-count').value) || 0,
         lastAction: document.getElementById('lead-last-action').value,
         lastContact: document.getElementById('lead-last-contact').value || null,
         nextFollowUp: document.getElementById('lead-next-followup').value || null,
