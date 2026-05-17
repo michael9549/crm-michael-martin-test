@@ -353,9 +353,15 @@
           </div>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
             <div class="form-group">
+              <label class="form-label">Created</label>
+              <input type="date" id="lead-created" class="form-input" readonly style="background: var(--gray-100);">
+            </div>
+            <div class="form-group">
               <label class="form-label">Last Contact</label>
               <input type="date" id="lead-last-contact" class="form-input">
             </div>
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
             <div class="form-group">
               <label class="form-label">Next Follow-Up</label>
               <input type="date" id="lead-next-followup" class="form-input">
@@ -727,6 +733,7 @@
       editingId = null;
       document.getElementById('modal-title').textContent = 'Add New Lead';
       document.getElementById('lead-form').reset();
+      document.getElementById('lead-created').value = getTodayPacific();
       document.getElementById('modal').classList.remove('hidden');
     }
 
@@ -744,6 +751,7 @@
       document.getElementById('lead-status').value = lead.status;
       document.getElementById('lead-temp').value = lead.temperature;
       document.getElementById('lead-last-action').value = lead.lastAction || 'Initial Contact';
+      document.getElementById('lead-created').value = formatDateForInput(lead.dateAdded || lead.created);
       document.getElementById('lead-last-contact').value = formatDateForInput(lead.lastContact);
       document.getElementById('lead-next-followup').value = formatDateForInput(lead.nextFollowUp);
       document.getElementById('lead-notes').value = lead.notes || '';
