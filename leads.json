@@ -1,0 +1,53 @@
+{
+  "leads": [
+    {
+      "id": "mpbasozefeimfubd0o4",
+      "name": "Corey Lamm",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cory.lamm.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-19",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbawjbpycf73l24cdb",
+      "name": "Sean C Spicer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sean.c.spicer.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-19",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbebmivij7p3d5qdb",
+      "name": "me test",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Hot",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-19",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
+    }
+  ],
+  "lastUpdated": "2026-05-18T16:05:53.479Z"
+}
