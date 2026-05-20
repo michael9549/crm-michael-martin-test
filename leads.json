@@ -852,7 +852,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-20T22:06:59.686Z"
+    },
+    {
+      "id": "mpem5nlgyxnaahb0wpo",
+      "name": "Rodney Moreland",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rodney.moreland.sr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-20T22:08:30.388Z"
     }
   ],
-  "lastUpdated": "2026-05-20T22:06:59.686Z"
+  "lastUpdated": "2026-05-20T22:08:30.388Z"
 }
