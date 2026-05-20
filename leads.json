@@ -784,7 +784,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-20T22:02:55.333Z"
+    },
+    {
+      "id": "mpem05quipp1elwjuhd",
+      "name": "Ian Bartusch",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ian.bartusch.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-20T22:04:13.974Z"
     }
   ],
-  "lastUpdated": "2026-05-20T22:02:55.333Z"
+  "lastUpdated": "2026-05-20T22:04:13.975Z"
 }
