@@ -455,7 +455,7 @@
       "phone": "",
       "social": "https://www.facebook.com/WhitneyParkhillRealEstate",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-19",
@@ -721,5 +721,5 @@
       "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T22:55:11.294Z"
+  "lastUpdated": "2026-05-20T02:40:33.988Z"
 }
