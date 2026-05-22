@@ -410,10 +410,10 @@
       "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-22",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-23",
       "notes": "",
-      "lastModified": "2026-05-21",
+      "lastModified": "2026-05-22",
       "dateAdded": "2026-05-19"
     },
     {
@@ -1723,5 +1723,5 @@
       "addedAt": "2026-05-22T00:16:29.370Z"
     }
   ],
-  "lastUpdated": "2026-05-22T21:31:17.606Z"
+  "lastUpdated": "2026-05-22T21:32:18.306Z"
 }
