@@ -71,13 +71,13 @@
       "phone": "",
       "social": "https://www.facebook.com/affiliatewarrior17",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-05-22",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-20",
+      "lastModified": "2026-05-22",
       "dateAdded": "2026-05-18"
     },
     {
@@ -1723,5 +1723,5 @@
       "addedAt": "2026-05-22T00:16:29.370Z"
     }
   ],
-  "lastUpdated": "2026-05-22T21:29:59.621Z"
+  "lastUpdated": "2026-05-22T21:30:36.022Z"
 }
