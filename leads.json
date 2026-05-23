@@ -1908,7 +1908,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:09:43.651Z"
+    },
+    {
+      "id": "mpilkawm87gx4yeh79r",
+      "name": "Carol Braund",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cdbraund",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-23",
+      "nextFollowUp": "2026-05-25",
+      "notes": "",
+      "lastModified": "2026-05-23",
+      "dateAdded": "2026-05-23",
+      "addedAt": "2026-05-23T17:02:58.870Z"
     }
   ],
-  "lastUpdated": "2026-05-23T01:09:43.651Z"
+  "lastUpdated": "2026-05-23T17:02:58.870Z"
 }
