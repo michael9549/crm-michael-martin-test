@@ -167,13 +167,13 @@
       "phone": "",
       "social": "https://www.facebook.com/alex.clark.669046",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-22",
-      "nextFollowUp": "2026-05-24",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-06-23",
       "notes": "",
-      "lastModified": "2026-05-22",
+      "lastModified": "2026-05-24",
       "dateAdded": "2026-05-18"
     },
     {
@@ -1727,5 +1727,5 @@
       "addedAt": "2026-05-23T17:02:58.870Z"
     }
   ],
-  "lastUpdated": "2026-05-24T23:13:10.081Z"
+  "lastUpdated": "2026-05-24T23:14:57.150Z"
 }
