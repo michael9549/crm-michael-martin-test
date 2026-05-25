@@ -1725,7 +1725,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:51:01.165Z"
+    },
+    {
+      "id": "mplqroir99qguz7zu7q",
+      "name": "Wayne Barkley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wayne.barkley.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:51:59.715Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:51:01.165Z"
+  "lastUpdated": "2026-05-25T21:51:59.715Z"
 }
