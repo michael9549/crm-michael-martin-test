@@ -1759,7 +1759,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:53:20.715Z"
+    },
+    {
+      "id": "mplqu8d8k91v5iqrm4",
+      "name": "Leonie Easterbrook",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/VoxyLady",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:53:58.748Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:53:20.715Z"
+  "lastUpdated": "2026-05-25T21:53:58.748Z"
 }
