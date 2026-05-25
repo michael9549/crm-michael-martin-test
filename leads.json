@@ -1810,7 +1810,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:56:13.948Z"
+    },
+    {
+      "id": "mplqxzkdbhu4po9ch8",
+      "name": "Brian S Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Briansjohnson1975",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:56:53.965Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:56:13.949Z"
+  "lastUpdated": "2026-05-25T21:56:53.965Z"
 }
