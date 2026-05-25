@@ -1631,7 +1631,7 @@
       "phone": "",
       "social": "https://www.facebook.com/aientrepreneur",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-25",
@@ -1659,5 +1659,5 @@
       "addedAt": "2026-05-25T19:09:09.617Z"
     }
   ],
-  "lastUpdated": "2026-05-25T19:09:09.617Z"
+  "lastUpdated": "2026-05-25T19:09:17.050Z"
 }
