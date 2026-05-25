@@ -1929,7 +1929,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T22:02:31.354Z"
+    },
+    {
+      "id": "mplr6ucjm40115zu87",
+      "name": "Lisa Holt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61550533414725",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T22:03:47.107Z"
     }
   ],
-  "lastUpdated": "2026-05-25T22:02:31.354Z"
+  "lastUpdated": "2026-05-25T22:03:47.107Z"
 }
