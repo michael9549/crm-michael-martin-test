@@ -2354,7 +2354,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:47:44.574Z"
+    },
+    {
+      "id": "mpnadlngbax3jebsflq",
+      "name": "Trausti Egilsson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tegilsson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:48:41.308Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:47:44.574Z"
+  "lastUpdated": "2026-05-26T23:48:41.308Z"
 }
