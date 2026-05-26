@@ -2065,7 +2065,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:26:18.077Z"
+    },
+    {
+      "id": "mpn9ndtt740gmg5j6fg",
+      "name": "Nate Price",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/natepriceofficial",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:28:18.113Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:26:18.077Z"
+  "lastUpdated": "2026-05-26T23:28:18.113Z"
 }
