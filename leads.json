@@ -2031,7 +2031,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:24:00.591Z"
+    },
+    {
+      "id": "mpn9jhgw6t7ocr1a15l",
+      "name": "Cassandra Gordon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cassandra.gordon.92372",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:25:16.208Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:24:00.591Z"
+  "lastUpdated": "2026-05-26T23:25:16.208Z"
 }
