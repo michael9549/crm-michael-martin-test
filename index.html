@@ -631,15 +631,23 @@
     
     // Detect repo from current URL (e.g., jeffcasmer.github.io/crm-jeff-casmer)
     function getRepoConfig() {
-      const hostname = window.location.hostname; // jeffcasmer.github.io
-      const path = window.location.pathname.split('/')[1]; // crm-jeff-casmer
+      const hostname = window.location.hostname;
+      const path = window.location.pathname.split('/')[1];
       
-      // Extract username from hostname (remove .github.io)
+      // Custom domain support
+      if (hostname === 'imabundance.com') {
+        return {
+          owner: 'michael9549',
+          repo: 'crm-leads-app'
+        };
+      }
+      
+      // GitHub Pages domain
       const username = hostname.replace('.github.io', '');
       
       return {
         owner: username,
-        repo: path || 'crm-leads-app' // fallback for local testing
+        repo: path || 'crm-leads-app'
       };
     }
     
