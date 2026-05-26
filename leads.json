@@ -2439,7 +2439,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:56:50.398Z"
+    },
+    {
+      "id": "mpnap43k5wddw957kpy",
+      "name": "Johnny Douglas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/johnny.douglas.79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:57:38.432Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:56:50.398Z"
+  "lastUpdated": "2026-05-26T23:57:38.432Z"
 }
