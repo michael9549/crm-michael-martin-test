@@ -754,15 +754,16 @@
       "phone": "",
       "social": "https://www.facebook.com/albert.holzlohner",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-06-26",
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
-      "addedAt": "2026-05-20T22:06:59.686Z"
+      "addedAt": "2026-05-20T22:06:59.686Z",
+      "videoSent": false
     },
     {
       "id": "mperzzju6z6ku0w5a0j",
@@ -2412,5 +2413,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T22:45:33.098Z"
+  "lastUpdated": "2026-05-27T22:46:57.666Z"
 }
