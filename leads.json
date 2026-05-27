@@ -941,15 +941,16 @@
       "phone": "",
       "social": "https://www.facebook.com/joseph.v.soto",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
-      "addedAt": "2026-05-21T01:13:55.814Z"
+      "addedAt": "2026-05-21T01:13:55.814Z",
+      "videoSent": false
     },
     {
       "id": "mpesvpakduksgn348ad",
@@ -2404,5 +2405,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T21:57:22.307Z"
+  "lastUpdated": "2026-05-27T22:36:48.787Z"
 }
