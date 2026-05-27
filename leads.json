@@ -1909,9 +1909,10 @@
       "lastContact": "2026-05-26",
       "nextFollowUp": "2026-05-28",
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T15:08:45.140Z"
+      "addedAt": "2026-05-26T15:08:45.140Z",
+      "videoSent": true
     },
     {
       "id": "mpn9eq72rqhbl5d251p",
@@ -2390,5 +2391,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T14:32:57.943Z"
+  "lastUpdated": "2026-05-27T21:48:19.837Z"
 }
