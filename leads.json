@@ -1497,11 +1497,11 @@
       "source": "Facebook",
       "status": "New Lead",
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-30",
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:08:47.550Z"
     },
@@ -2407,5 +2407,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T14:18:21.899Z"
+  "lastUpdated": "2026-05-27T14:19:12.167Z"
 }
