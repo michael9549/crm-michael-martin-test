@@ -737,15 +737,16 @@
       "phone": "",
       "social": "https://www.facebook.com/rick.benson.779",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
-      "addedAt": "2026-05-20T22:06:19.767Z"
+      "addedAt": "2026-05-20T22:06:19.767Z",
+      "videoSent": false
     },
     {
       "id": "mpem3plyb23huhynkl4",
@@ -2413,5 +2414,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T22:46:57.666Z"
+  "lastUpdated": "2026-05-27T22:48:35.603Z"
 }
