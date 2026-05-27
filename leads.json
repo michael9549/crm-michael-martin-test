@@ -968,13 +968,13 @@
       "phone": "",
       "social": "https://www.facebook.com/vinh.han.50",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:18:00.573Z"
     },
@@ -2390,5 +2390,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T14:30:10.013Z"
+  "lastUpdated": "2026-05-27T14:30:49.215Z"
 }
