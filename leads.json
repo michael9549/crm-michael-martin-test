@@ -2494,7 +2494,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:17:18.978Z"
+    },
+    {
+      "id": "mpov58f8ht2i4efn1ow",
+      "name": "Pablo Chinchilla",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pablocesar78",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-28T02:17:49.028Z"
     }
   ],
-  "lastUpdated": "2026-05-28T02:17:18.978Z"
+  "lastUpdated": "2026-05-28T02:17:49.028Z"
 }
