@@ -2584,7 +2584,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:26:26.642Z"
+    },
+    {
+      "id": "mpovi2s505yy3wc9c9dw",
+      "name": "Dennis Howard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dennis.howard.184",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-28T02:27:48.245Z"
     }
   ],
-  "lastUpdated": "2026-05-28T02:26:26.642Z"
+  "lastUpdated": "2026-05-28T02:27:48.245Z"
 }
