@@ -1063,15 +1063,16 @@
       "phone": "",
       "social": "https://www.facebook.com/john.crane.3158652",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-27",
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-21T23:54:41.465Z"
+      "addedAt": "2026-05-21T23:54:41.465Z",
+      "videoSent": true
     },
     {
       "id": "mpg5gjnbocc2486rcn",
@@ -2629,5 +2630,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T01:08:19.276Z"
+  "lastUpdated": "2026-05-29T01:09:09.509Z"
 }
