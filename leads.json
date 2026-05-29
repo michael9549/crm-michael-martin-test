@@ -1233,15 +1233,16 @@
       "phone": "",
       "social": "https://www.facebook.com/workwithcoachbrown",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-31",
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-22T00:10:46.330Z"
+      "addedAt": "2026-05-22T00:10:46.330Z",
+      "videoSent": true
     },
     {
       "id": "mpg5zm0hevxl4vrdzqm",
@@ -2619,5 +2620,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:55:13.875Z"
+  "lastUpdated": "2026-05-29T00:56:08.809Z"
 }
