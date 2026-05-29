@@ -2663,7 +2663,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:50:37.929Z"
+    },
+    {
+      "id": "mprc7z0jvs0fcvwq6it",
+      "name": "Brandon Morales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brandon.morales.422848",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T19:51:22.627Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:50:37.929Z"
+  "lastUpdated": "2026-05-29T19:51:22.627Z"
 }
