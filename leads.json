@@ -2627,7 +2627,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T13:39:15.552Z"
+    },
+    {
+      "id": "mprc698y3gvmfg04sfi",
+      "name": "Dean Ball",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dean.ball.924712",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T19:50:02.578Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:45:58.482Z"
+  "lastUpdated": "2026-05-29T19:50:02.578Z"
 }
