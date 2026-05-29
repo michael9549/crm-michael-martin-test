@@ -499,14 +499,15 @@
       "phone": "",
       "social": "https://www.facebook.com/andygamez.rei",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-19"
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-19",
+      "videoSent": false
     },
     {
       "id": "mpd80nqghpkbkp70vut",
@@ -2637,5 +2638,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T01:19:26.296Z"
+  "lastUpdated": "2026-05-29T01:20:52.047Z"
 }
