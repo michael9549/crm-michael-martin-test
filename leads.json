@@ -1362,15 +1362,16 @@
       "phone": "",
       "social": "https://www.facebook.com/robert.byrne.90038",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-29",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T00:54:11.413Z"
+      "addedAt": "2026-05-23T00:54:11.413Z",
+      "videoSent": true
     },
     {
       "id": "mphmztugtbhdk9bkr5d",
@@ -2626,5 +2627,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:36:22.054Z"
+  "lastUpdated": "2026-05-29T19:37:46.640Z"
 }
