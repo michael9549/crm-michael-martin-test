@@ -432,13 +432,13 @@
       "phone": "",
       "social": "https://www.facebook.com/WhitneyParkhillRealEstate",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-27",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-19",
       "videoSent": true
     },
@@ -2636,5 +2636,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T01:16:18.993Z"
+  "lastUpdated": "2026-05-29T01:17:18.260Z"
 }
