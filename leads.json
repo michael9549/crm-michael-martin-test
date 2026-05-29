@@ -1199,15 +1199,16 @@
       "phone": "",
       "social": "https://www.facebook.com/dougmccay",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-22T00:09:23.227Z"
+      "addedAt": "2026-05-22T00:09:23.227Z",
+      "videoSent": false
     },
     {
       "id": "mpg5xxmtt8s6hawiz",
@@ -2621,5 +2622,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:57:28.476Z"
+  "lastUpdated": "2026-05-29T00:59:01.159Z"
 }
