@@ -2294,15 +2294,16 @@
       "phone": "",
       "social": "https://www.facebook.com/jameswal.hamley",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T23:47:44.574Z"
+      "addedAt": "2026-05-26T23:47:44.574Z",
+      "videoSent": false
     },
     {
       "id": "mpnadlngbax3jebsflq",
@@ -2628,5 +2629,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:31:17.057Z"
+  "lastUpdated": "2026-05-29T00:31:41.340Z"
 }
