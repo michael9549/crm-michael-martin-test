@@ -3712,7 +3712,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T17:02:03.219Z"
+    },
+    {
+      "id": "mpsu354ct0al2b5g6bp",
+      "name": "Orlin Turcios",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/orlin.turcios.32830",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T20:59:16.524Z"
     }
   ],
-  "lastUpdated": "2026-05-30T17:02:03.219Z"
+  "lastUpdated": "2026-05-30T20:59:16.524Z"
 }
