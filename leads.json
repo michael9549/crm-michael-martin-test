@@ -3383,7 +3383,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:29:42.955Z"
+    },
+    {
+      "id": "mprobv4mudt58uicm2g",
+      "name": "Snapper Tams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/snapper.tams.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:30:19.606Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:29:42.955Z"
+  "lastUpdated": "2026-05-30T01:30:19.606Z"
 }
