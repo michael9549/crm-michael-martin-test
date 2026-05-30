@@ -3491,7 +3491,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:37:03.326Z"
+    },
+    {
+      "id": "mprolbrj96r7ohyi92",
+      "name": "Jessica Rivera",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jessica.rivera.47154",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:37:41.071Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:37:03.326Z"
+  "lastUpdated": "2026-05-30T01:37:41.071Z"
 }
