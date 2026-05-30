@@ -3401,7 +3401,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:30:19.606Z"
+    },
+    {
+      "id": "mprofl7zwgj3l1f9yir",
+      "name": "Diego Britt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100092341375453",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:33:13.391Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:30:19.606Z"
+  "lastUpdated": "2026-05-30T01:33:13.391Z"
 }
