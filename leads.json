@@ -3185,7 +3185,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:21:20.452Z"
+    },
+    {
+      "id": "mpro0zxmi3to7wyk5pr",
+      "name": "Ernest Rivera",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100092745620391",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:21:52.618Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:21:20.452Z"
+  "lastUpdated": "2026-05-30T01:21:52.618Z"
 }
