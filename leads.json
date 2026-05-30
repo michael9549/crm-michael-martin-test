@@ -1849,15 +1849,16 @@
       "phone": "",
       "social": "https://www.facebook.com/peran.trenberth",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-02",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T21:59:30.502Z"
+      "addedAt": "2026-05-25T21:59:30.502Z",
+      "videoSent": true
     },
     {
       "id": "mplr2khk4soks8zqsp5",
@@ -3533,5 +3534,5 @@
       "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T15:52:06.011Z"
+  "lastUpdated": "2026-05-30T15:52:55.378Z"
 }
