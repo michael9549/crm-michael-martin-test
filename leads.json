@@ -1866,15 +1866,16 @@
       "phone": "",
       "social": "https://www.facebook.com/jim.gomes64",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T22:00:27.704Z"
+      "addedAt": "2026-05-25T22:00:27.704Z",
+      "videoSent": false
     },
     {
       "id": "mplr57wawoq60dyz9z",
@@ -3532,5 +3533,5 @@
       "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T15:51:41.877Z"
+  "lastUpdated": "2026-05-30T15:52:06.011Z"
 }
