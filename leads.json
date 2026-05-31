@@ -4252,7 +4252,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T21:56:28.131Z"
+    },
+    {
+      "id": "mpuct3jtrrngwhjpsxk",
+      "name": "Chris Meyer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.meyer.29632",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T22:31:06.809Z"
     }
   ],
-  "lastUpdated": "2026-05-31T21:56:28.131Z"
+  "lastUpdated": "2026-05-31T22:31:06.810Z"
 }
