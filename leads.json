@@ -4180,7 +4180,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T21:48:32.459Z"
+    },
+    {
+      "id": "mpubblisbcpnlbwb12",
+      "name": "Christian Andrews",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/christian.andrews.87759",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T21:49:30.676Z"
     }
   ],
-  "lastUpdated": "2026-05-31T21:48:32.459Z"
+  "lastUpdated": "2026-05-31T21:49:30.676Z"
 }
