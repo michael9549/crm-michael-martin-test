@@ -2946,14 +2946,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100093960824198",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:13:28.999Z"
     },
@@ -4650,5 +4650,5 @@
       "addedAt": "2026-06-01T03:06:57.220Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:08:04.491Z"
+  "lastUpdated": "2026-06-01T15:09:18.759Z"
 }
