@@ -5153,7 +5153,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:24:37.099Z"
+    },
+    {
+      "id": "mpvs19t4bc00l0xpsu",
+      "name": "Aslan Alastair",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aslan.alastair",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T22:25:08.584Z"
     }
   ],
-  "lastUpdated": "2026-06-01T22:24:37.099Z"
+  "lastUpdated": "2026-06-01T22:25:08.584Z"
 }
