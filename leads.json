@@ -3270,14 +3270,14 @@
       "phone": "",
       "social": "https://www.facebook.com/josh.wagoner.18692",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:24:52.169Z"
     },
@@ -4650,5 +4650,5 @@
       "addedAt": "2026-06-01T03:06:57.220Z"
     }
   ],
-  "lastUpdated": "2026-06-01T14:54:08.863Z"
+  "lastUpdated": "2026-06-01T14:55:04.162Z"
 }
