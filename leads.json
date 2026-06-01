@@ -5207,7 +5207,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:26:09.851Z"
+    },
+    {
+      "id": "mpvs3n25258soxd3dcu",
+      "name": "Jimmy Tompkins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jimmy.tompkins.625240",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T22:26:59.069Z"
     }
   ],
-  "lastUpdated": "2026-06-01T22:26:09.851Z"
+  "lastUpdated": "2026-06-01T22:26:59.069Z"
 }
