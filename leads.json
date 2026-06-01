@@ -5171,7 +5171,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:25:08.584Z"
+    },
+    {
+      "id": "mpvs1wek9budys3k0fb",
+      "name": "David Haynes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/williamdavidhaynes",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T22:25:37.868Z"
     }
   ],
-  "lastUpdated": "2026-06-01T22:25:08.584Z"
+  "lastUpdated": "2026-06-01T22:25:37.868Z"
 }
