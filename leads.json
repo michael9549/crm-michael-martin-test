@@ -2442,13 +2442,13 @@
       "phone": "",
       "social": "https://www.facebook.com/vimal.roopchund",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:58:30.950Z",
       "videoSent": false
@@ -5245,5 +5245,5 @@
       "addedAt": "2026-06-01T22:27:30.103Z"
     }
   ],
-  "lastUpdated": "2026-06-02T20:51:57.460Z"
+  "lastUpdated": "2026-06-02T20:52:29.961Z"
 }
