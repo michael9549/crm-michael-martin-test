@@ -5459,7 +5459,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:24:24.050Z"
+    },
+    {
+      "id": "mpxbr63a06z2i5eoke69",
+      "name": "Joe Ryan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joe.ryan.3766",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-03T00:24:55.702Z"
     }
   ],
-  "lastUpdated": "2026-06-03T00:24:24.050Z"
+  "lastUpdated": "2026-06-03T00:24:55.702Z"
 }
