@@ -2298,13 +2298,13 @@
       "phone": "",
       "social": "https://www.facebook.com/lance.muddiman.3",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-03",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-07-03",
       "notes": "",
-      "lastModified": "2026-05-31",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:46:04.140Z",
       "videoSent": true
@@ -5587,5 +5587,5 @@
       "addedAt": "2026-06-03T00:38:55.683Z"
     }
   ],
-  "lastUpdated": "2026-06-03T21:40:10.233Z"
+  "lastUpdated": "2026-06-03T21:41:00.116Z"
 }
