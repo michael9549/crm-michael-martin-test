@@ -5495,7 +5495,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:25:48.253Z"
+    },
+    {
+      "id": "mpxbt78ozvxuh9p54y",
+      "name": "Jason Burch",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.burch.142",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-03T00:26:30.504Z"
     }
   ],
-  "lastUpdated": "2026-06-03T00:25:48.253Z"
+  "lastUpdated": "2026-06-03T00:26:30.504Z"
 }
