@@ -792,13 +792,13 @@
       "phone": "",
       "social": "https://www.facebook.com/martindimitrovofficialprofile",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Prospect",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-26",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T00:53:04.784Z",
       "videoSent": false
@@ -6343,5 +6343,5 @@
       "addedAt": "2026-06-04T21:00:38.627Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:00:38.627Z"
+  "lastUpdated": "2026-06-04T21:02:35.496Z"
 }
