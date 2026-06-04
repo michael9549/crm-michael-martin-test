@@ -4729,14 +4729,14 @@
       "phone": "",
       "social": "https://www.facebook.com/allencurtisboynton",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-04",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:05:06.263Z"
     },
@@ -6127,5 +6127,5 @@
       "addedAt": "2026-06-04T01:06:21.906Z"
     }
   ],
-  "lastUpdated": "2026-06-04T14:57:46.458Z"
+  "lastUpdated": "2026-06-04T14:59:22.510Z"
 }
