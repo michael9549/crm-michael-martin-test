@@ -6089,7 +6089,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T01:04:36.585Z"
+    },
+    {
+      "id": "mpysnlql1u7qm4u3gj4",
+      "name": "Chris Blair",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.blair.71216",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T01:05:49.005Z"
     }
   ],
-  "lastUpdated": "2026-06-04T01:04:36.585Z"
+  "lastUpdated": "2026-06-04T01:05:49.005Z"
 }
