@@ -5729,7 +5729,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:47:26.823Z"
+    },
+    {
+      "id": "mpys0v01cizjahshe96",
+      "name": "Michael Francis Malik",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.francis.malik",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:48:07.922Z"
     }
   ],
-  "lastUpdated": "2026-06-04T00:47:26.823Z"
+  "lastUpdated": "2026-06-04T00:48:07.922Z"
 }
