@@ -6341,7 +6341,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:00:38.627Z"
+    },
+    {
+      "id": "mpzzfpg01f58v6fb9ts",
+      "name": "Sean Box",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61553106097188",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:03:24.048Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:02:35.496Z"
+  "lastUpdated": "2026-06-04T21:03:24.048Z"
 }
