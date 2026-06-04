@@ -6557,7 +6557,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:15:36.507Z"
+    },
+    {
+      "id": "mpzzwei7av2zs83ylu5",
+      "name": "Benjamin Hampton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/benandnadiahampton",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:16:23.023Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:15:36.507Z"
+  "lastUpdated": "2026-06-04T21:16:23.023Z"
 }
