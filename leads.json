@@ -7027,7 +7027,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:58:14.998Z"
+    },
+    {
+      "id": "mq1nam7w12dthaff26ro",
+      "name": "Davie Watkins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daviewatkins2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:59:03.548Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:58:14.998Z"
+  "lastUpdated": "2026-06-06T00:59:03.548Z"
 }
