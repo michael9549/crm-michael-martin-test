@@ -7243,7 +7243,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:23:52.944Z"
+    },
+    {
+      "id": "mq1o76ftckdxd0fcxm",
+      "name": "Dwayne Schmidek",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dwayne.schmidek",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T01:24:22.745Z"
     }
   ],
-  "lastUpdated": "2026-06-06T01:23:52.944Z"
+  "lastUpdated": "2026-06-06T01:24:22.745Z"
 }
