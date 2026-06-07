@@ -7389,7 +7389,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:17:32.834Z"
+    },
+    {
+      "id": "mq31a8iylolke8gi5me",
+      "name": "Aaron Finkel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/workwithaaronfinkel",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:18:26.602Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:17:32.834Z"
+  "lastUpdated": "2026-06-07T00:18:26.602Z"
 }
