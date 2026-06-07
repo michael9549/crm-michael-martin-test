@@ -7479,7 +7479,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:22:19.023Z"
+    },
+    {
+      "id": "mq31g3o1jheimlmzlb8",
+      "name": "Carlos BriTorre",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carlos.britorre.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:23:00.241Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:22:19.023Z"
+  "lastUpdated": "2026-06-07T00:23:00.241Z"
 }
