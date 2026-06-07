@@ -7785,7 +7785,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:36:19.124Z"
+    },
+    {
+      "id": "mq31xwg3l8oksuwmzub",
+      "name": "Kevin Hernandez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kevin.hernandez.799044",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:36:50.691Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:36:19.124Z"
+  "lastUpdated": "2026-06-07T00:36:50.691Z"
 }
