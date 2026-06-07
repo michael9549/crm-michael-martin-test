@@ -2930,14 +2930,14 @@
       "phone": "",
       "social": "https://www.facebook.com/brian.weyers.25248",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-07",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:12:12.549Z"
     },
@@ -7931,5 +7931,5 @@
       "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-07T20:11:20.394Z"
+  "lastUpdated": "2026-06-07T20:11:47.412Z"
 }
