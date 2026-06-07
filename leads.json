@@ -2822,14 +2822,14 @@
       "phone": "",
       "social": "https://www.facebook.com/CarolButeraSellsTexas",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-07",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:58:11.944Z"
     },
@@ -7931,5 +7931,5 @@
       "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-07T20:12:48.863Z"
+  "lastUpdated": "2026-06-07T20:13:16.762Z"
 }
