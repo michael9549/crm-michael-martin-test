@@ -7641,7 +7641,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:29:39.115Z"
+    },
+    {
+      "id": "mq31pj617uk7dml2ynr",
+      "name": "Bill Platt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/BillPlatt.Oklahoma",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:30:20.233Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:29:39.115Z"
+  "lastUpdated": "2026-06-07T00:30:20.233Z"
 }
