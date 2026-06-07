@@ -7407,7 +7407,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:18:26.602Z"
+    },
+    {
+      "id": "mq31b3d655vlmarelt",
+      "name": "Dan Flores",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dan.flores.23204",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:19:06.570Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:18:26.602Z"
+  "lastUpdated": "2026-06-07T00:19:06.570Z"
 }
