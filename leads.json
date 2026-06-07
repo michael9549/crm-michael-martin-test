@@ -6298,14 +6298,14 @@
       "phone": "",
       "social": "https://www.facebook.com/vduplessie",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-07",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-07",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:00:38.627Z"
     },
@@ -7895,5 +7895,5 @@
       "addedAt": "2026-06-07T00:39:51.922Z"
     }
   ],
-  "lastUpdated": "2026-06-07T13:55:00.701Z"
+  "lastUpdated": "2026-06-07T13:55:23.501Z"
 }
