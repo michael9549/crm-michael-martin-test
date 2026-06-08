@@ -3974,14 +3974,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100090351480780",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T22:25:53.004Z"
     },
@@ -7931,5 +7931,5 @@
       "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-08T16:24:45.653Z"
+  "lastUpdated": "2026-06-08T16:25:23.686Z"
 }
