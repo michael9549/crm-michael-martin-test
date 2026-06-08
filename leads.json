@@ -8415,7 +8415,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:51:52.136Z"
+    },
+    {
+      "id": "mq5v8srmp5qk2i73v1",
+      "name": "Thomas C Drake Jr",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thomas.c.drake.jr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:52:40.354Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:51:52.136Z"
+  "lastUpdated": "2026-06-08T23:52:40.354Z"
 }
