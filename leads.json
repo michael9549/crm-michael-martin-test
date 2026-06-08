@@ -7217,14 +7217,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jackiedeboer0437",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:23:52.944Z"
     },
@@ -7931,5 +7931,5 @@
       "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-08T15:36:57.096Z"
+  "lastUpdated": "2026-06-08T15:37:22.514Z"
 }
