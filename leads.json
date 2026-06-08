@@ -8253,7 +8253,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:42:56.701Z"
+    },
+    {
+      "id": "mq5uwzp7bi3s3lzu2yp",
+      "name": "Brian Gargone",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brian.gargone.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:43:29.467Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:42:56.701Z"
+  "lastUpdated": "2026-06-08T23:43:29.467Z"
 }
