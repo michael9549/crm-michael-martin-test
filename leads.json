@@ -1742,13 +1742,13 @@
       "phone": "",
       "social": "https://www.facebook.com/wayne.barkley.2025",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-06-08",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-07-08",
       "notes": "",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:51:59.715Z",
       "videoSent": true
@@ -7931,5 +7931,5 @@
       "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-08T16:40:30.422Z"
+  "lastUpdated": "2026-06-08T16:41:05.712Z"
 }
