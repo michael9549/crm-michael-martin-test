@@ -5540,14 +5540,14 @@
       "phone": "",
       "social": "https://www.facebook.com/clintwesterhold",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:29:03.989Z"
     },
@@ -7931,5 +7931,5 @@
       "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-08T16:06:13.335Z"
+  "lastUpdated": "2026-06-08T16:06:39.452Z"
 }
