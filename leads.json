@@ -8217,7 +8217,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:38:26.934Z"
+    },
+    {
+      "id": "mq5usbjyalfbytn05ob",
+      "name": "Stacey Gonzales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/smgonzales88",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:39:51.550Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:38:26.934Z"
+  "lastUpdated": "2026-06-08T23:39:51.550Z"
 }
