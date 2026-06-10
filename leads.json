@@ -6478,14 +6478,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ChipPinard",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-10",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-07",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:14:11.192Z"
     },
@@ -8975,5 +8975,5 @@
       "addedAt": "2026-06-10T00:52:15.913Z"
     }
   ],
-  "lastUpdated": "2026-06-10T14:00:22.714Z"
+  "lastUpdated": "2026-06-10T14:01:06.349Z"
 }
