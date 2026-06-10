@@ -6157,11 +6157,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-10",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
       "notes": "",
-      "lastModified": "2026-06-07",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:52:45.000Z"
     },
@@ -8975,5 +8975,5 @@
       "addedAt": "2026-06-10T00:52:15.913Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:07:04.200Z"
+  "lastUpdated": "2026-06-10T23:07:37.747Z"
 }
