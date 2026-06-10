@@ -4730,14 +4730,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100088182527778",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-10",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-07",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:05:40.696Z"
     },
@@ -8975,5 +8975,5 @@
       "addedAt": "2026-06-10T00:52:15.913Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:29:50.966Z"
+  "lastUpdated": "2026-06-10T23:30:25.632Z"
 }
