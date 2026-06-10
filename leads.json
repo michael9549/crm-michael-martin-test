@@ -6082,14 +6082,14 @@
       "phone": "",
       "social": "https://www.facebook.com/matthew.burkholder.178057",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-10",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
       "notes": "",
-      "lastModified": "2026-06-07",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T01:06:21.906Z"
     },
@@ -8975,5 +8975,5 @@
       "addedAt": "2026-06-10T00:52:15.913Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:09:47.430Z"
+  "lastUpdated": "2026-06-10T23:10:33.682Z"
 }
