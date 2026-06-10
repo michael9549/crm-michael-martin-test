@@ -7905,10 +7905,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-10",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
       "notes": "Michael Angel Profile ",
-      "lastModified": "2026-06-07",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T19:35:59.975Z"
     },
@@ -8975,5 +8975,5 @@
       "addedAt": "2026-06-10T00:52:15.913Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:53:30.880Z"
+  "lastUpdated": "2026-06-10T13:54:18.341Z"
 }
