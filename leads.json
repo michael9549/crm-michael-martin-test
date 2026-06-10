@@ -4622,14 +4622,14 @@
       "phone": "",
       "social": "https://www.facebook.com/chaseharmerrr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-10",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-07",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:01:12.243Z"
     },
@@ -8975,5 +8975,5 @@
       "addedAt": "2026-06-10T00:52:15.913Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:34:19.586Z"
+  "lastUpdated": "2026-06-10T23:34:49.470Z"
 }
