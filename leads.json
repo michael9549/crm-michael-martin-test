@@ -9153,7 +9153,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:46:16.589Z"
+    },
+    {
+      "id": "mq8s25nd5zmcy3wnpar",
+      "name": "Brandon Simmons",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brandon.simmons.121971",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:46:50.137Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:46:16.589Z"
+  "lastUpdated": "2026-06-11T00:46:50.137Z"
 }
