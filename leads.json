@@ -9063,7 +9063,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:41:48.498Z"
+    },
+    {
+      "id": "mq8rwae5mqpe44cvwpd",
+      "name": "Myles Savery",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/myles.savery.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:42:16.349Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:41:48.498Z"
+  "lastUpdated": "2026-06-11T00:42:16.349Z"
 }
