@@ -9369,7 +9369,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:54:35.144Z"
+    },
+    {
+      "id": "mq8sdbi9i8l0vgja2hb",
+      "name": "Faustino Gonzales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/faustino.gonzales.879648",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:55:30.945Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:54:35.144Z"
+  "lastUpdated": "2026-06-11T00:55:30.945Z"
 }
