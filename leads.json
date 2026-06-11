@@ -9279,7 +9279,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:50:12.657Z"
+    },
+    {
+      "id": "mq8s7td9c2sytk6xlqh",
+      "name": "Jonathan Gutierrez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jonathan.gutierrez.675505",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:51:14.157Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:50:12.657Z"
+  "lastUpdated": "2026-06-11T00:51:14.157Z"
 }
