@@ -9495,7 +9495,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:58:47.664Z"
+    },
+    {
+      "id": "mq8si5tc6g9p2b5706w",
+      "name": "Michael Frey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.frey.584683",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:59:16.848Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:58:47.664Z"
+  "lastUpdated": "2026-06-11T00:59:16.848Z"
 }
