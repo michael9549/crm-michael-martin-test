@@ -9099,7 +9099,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:42:55.400Z"
+    },
+    {
+      "id": "mq8rxr1izdi7srw0pt8",
+      "name": "Troy Daland",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100072103812683",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:43:24.582Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:42:55.400Z"
+  "lastUpdated": "2026-06-11T00:43:24.582Z"
 }
