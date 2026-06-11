@@ -9027,7 +9027,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:40:40.380Z"
+    },
+    {
+      "id": "mq8rv1ufkf78yvqxpz",
+      "name": "Stephen Adu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stevad.biz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:41:18.615Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:40:40.380Z"
+  "lastUpdated": "2026-06-11T00:41:18.615Z"
 }
