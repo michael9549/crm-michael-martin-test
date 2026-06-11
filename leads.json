@@ -8973,7 +8973,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:52:15.913Z"
+    },
+    {
+      "id": "mq8rrf3nr9wrmera48",
+      "name": "William Henry",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100072626140243",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:38:29.171Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:36:08.687Z"
+  "lastUpdated": "2026-06-11T00:38:29.171Z"
 }
