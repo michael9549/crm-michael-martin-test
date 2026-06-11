@@ -6857,14 +6857,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jackie.norton",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-11",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
       "notes": "",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:52:04.926Z"
     },
@@ -9552,5 +9552,5 @@
       "addedAt": "2026-06-11T01:00:43.017Z"
     }
   ],
-  "lastUpdated": "2026-06-11T15:11:55.978Z"
+  "lastUpdated": "2026-06-11T15:12:42.563Z"
 }
