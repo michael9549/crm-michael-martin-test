@@ -9568,7 +9568,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:29:50.282Z"
+    },
+    {
+      "id": "mq9w7gqawclc6ekvcx8",
+      "name": "Jerry Moore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jmoore12923",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:30:42.418Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:29:50.282Z"
+  "lastUpdated": "2026-06-11T19:30:42.418Z"
 }
