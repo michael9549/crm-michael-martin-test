@@ -9730,7 +9730,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:43:07.981Z"
+    },
+    {
+      "id": "mq9wrzkxi94oib6tq4q",
+      "name": "Gavin Spuck",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gavin.spuck.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:46:39.969Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:43:07.981Z"
+  "lastUpdated": "2026-06-11T19:46:39.969Z"
 }
