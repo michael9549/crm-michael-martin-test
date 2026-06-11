@@ -9351,7 +9351,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:53:46.977Z"
+    },
+    {
+      "id": "mq8sc4g8jxigh8vccvq",
+      "name": "Briton Davis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/britondavissd",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:54:35.144Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:53:46.977Z"
+  "lastUpdated": "2026-06-11T00:54:35.144Z"
 }
