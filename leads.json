@@ -9207,7 +9207,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:48:15.822Z"
+    },
+    {
+      "id": "mq8s4mchkwofj2nxhnl",
+      "name": "Luis Botero",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/boteroluis29",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:48:45.089Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:48:15.822Z"
+  "lastUpdated": "2026-06-11T00:48:45.090Z"
 }
