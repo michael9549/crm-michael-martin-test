@@ -9604,7 +9604,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:32:08.385Z"
+    },
+    {
+      "id": "mq9w9zfmes8p14dm7rs",
+      "name": "James Kiesewetter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.kiesewetter",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:32:39.970Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:32:08.385Z"
+  "lastUpdated": "2026-06-11T19:32:39.970Z"
 }
