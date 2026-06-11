@@ -9477,7 +9477,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:58:19.831Z"
+    },
+    {
+      "id": "mq8shjaolo1bpezaudc",
+      "name": "Luis Rodriguez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luis.rodriguez.225495",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:58:47.664Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:58:19.831Z"
+  "lastUpdated": "2026-06-11T00:58:47.664Z"
 }
