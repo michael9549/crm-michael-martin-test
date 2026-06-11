@@ -9712,7 +9712,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:35:17.804Z"
+    },
+    {
+      "id": "mq9wng0dyeouryxk1c9",
+      "name": "Michelle Kolcan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michellekolcan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:43:07.981Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:35:17.805Z"
+  "lastUpdated": "2026-06-11T19:43:07.981Z"
 }
