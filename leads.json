@@ -9135,7 +9135,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:43:53.201Z"
+    },
+    {
+      "id": "mq8s1frhxox131y7ekh",
+      "name": "Christopher Busken",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100072016084956",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:46:16.589Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:43:53.201Z"
+  "lastUpdated": "2026-06-11T00:46:16.589Z"
 }
