@@ -10271,7 +10271,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:56:49.581Z"
+    },
+    {
+      "id": "mqbj1ucrourmp4d1nd",
+      "name": "John Page",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.page.209968",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:56:49.581Z"
+  "lastUpdated": "2026-06-12T22:57:57.483Z"
 }
