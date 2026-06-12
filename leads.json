@@ -10073,7 +10073,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:39:54.697Z"
+    },
+    {
+      "id": "mqbijbbalvvffuz2h7",
+      "name": "Juan Curiel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/juan.curiel.digital",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:43:32.998Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:39:54.697Z"
+  "lastUpdated": "2026-06-12T22:43:32.998Z"
 }
