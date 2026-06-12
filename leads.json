@@ -10199,7 +10199,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:53:47.627Z"
+    },
+    {
+      "id": "mqbix6f9j6502226ym",
+      "name": "Gordon Thornton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gordon.thornton.710",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:54:19.845Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:53:47.627Z"
+  "lastUpdated": "2026-06-12T22:54:19.845Z"
 }
