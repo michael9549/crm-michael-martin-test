@@ -5758,14 +5758,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nicholas.olen",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-12",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:50:00.753Z"
     },
@@ -9894,5 +9894,5 @@
       "addedAt": "2026-06-12T13:20:02.549Z"
     }
   ],
-  "lastUpdated": "2026-06-12T15:36:57.070Z"
+  "lastUpdated": "2026-06-12T15:37:26.686Z"
 }
