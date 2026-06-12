@@ -8838,14 +8838,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jenny.wilson.437814",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:47:08.584Z"
     },
@@ -9894,5 +9894,5 @@
       "addedAt": "2026-06-12T13:20:02.549Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:25:25.785Z"
+  "lastUpdated": "2026-06-12T13:26:14.084Z"
 }
