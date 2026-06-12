@@ -10163,7 +10163,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:52:06.793Z"
+    },
+    {
+      "id": "mqbiv6wnxuhlj6ajwkr",
+      "name": "Chad Westover",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chad.westover.10",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:52:47.159Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:52:06.793Z"
+  "lastUpdated": "2026-06-12T22:52:47.159Z"
 }
