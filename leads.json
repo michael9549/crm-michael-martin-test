@@ -7793,14 +7793,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kevin.hernandez.799044",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:36:50.691Z"
     },
@@ -9894,5 +9894,5 @@
       "addedAt": "2026-06-12T13:20:02.549Z"
     }
   ],
-  "lastUpdated": "2026-06-12T15:11:33.287Z"
+  "lastUpdated": "2026-06-12T15:11:54.185Z"
 }
