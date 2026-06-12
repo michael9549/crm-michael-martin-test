@@ -10109,7 +10109,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:44:23.316Z"
+    },
+    {
+      "id": "mqbimccx23yaidf3uny",
+      "name": "Shud Yzeff",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shud.yzeff",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:45:54.321Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:44:23.316Z"
+  "lastUpdated": "2026-06-12T22:45:54.321Z"
 }
