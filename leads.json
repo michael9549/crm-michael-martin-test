@@ -8748,14 +8748,14 @@
       "phone": "",
       "social": "https://www.facebook.com/themiangm",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:42:26.629Z"
     },
@@ -9894,5 +9894,5 @@
       "addedAt": "2026-06-12T13:20:02.549Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:29:36.969Z"
+  "lastUpdated": "2026-06-12T13:29:49.170Z"
 }
