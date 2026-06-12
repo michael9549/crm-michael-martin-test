@@ -9784,7 +9784,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:15:55.530Z"
+    },
+    {
+      "id": "mqaya5yulg8lvnnlo9",
+      "name": "Jae Morales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jae.morales.127",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:16:33.846Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:15:55.530Z"
+  "lastUpdated": "2026-06-12T13:16:33.846Z"
 }
