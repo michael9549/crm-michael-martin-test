@@ -10127,7 +10127,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:45:54.321Z"
+    },
+    {
+      "id": "mqbin5idujemusqz7u",
+      "name": "Francisco Diaz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/francisco.diaz.273065",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:46:32.101Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:45:54.321Z"
+  "lastUpdated": "2026-06-12T22:46:32.101Z"
 }
