@@ -6083,14 +6083,14 @@
       "phone": "",
       "social": "https://www.facebook.com/matthew.burkholder.178057",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T01:06:21.906Z"
     },
@@ -10291,5 +10291,5 @@
       "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-13T14:52:59.260Z"
+  "lastUpdated": "2026-06-13T14:53:32.377Z"
 }
