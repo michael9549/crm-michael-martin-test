@@ -9181,14 +9181,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bob.holub.official",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:47:24.164Z"
     },
@@ -10291,5 +10291,5 @@
       "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-13T14:08:47.749Z"
+  "lastUpdated": "2026-06-13T14:12:56.776Z"
 }
