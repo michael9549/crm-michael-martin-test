@@ -4983,14 +4983,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100086794811111",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:16:47.254Z"
     },
@@ -10291,5 +10291,5 @@
       "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-13T14:55:10.777Z"
+  "lastUpdated": "2026-06-13T16:06:25.801Z"
 }
