@@ -9541,14 +9541,14 @@
       "phone": "",
       "social": "https://www.facebook.com/miggy.miggy.568294",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-13",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T01:00:43.017Z"
     },
@@ -10291,5 +10291,5 @@
       "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:57:57.483Z"
+  "lastUpdated": "2026-06-13T13:51:40.198Z"
 }
