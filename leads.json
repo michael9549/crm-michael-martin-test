@@ -6605,14 +6605,14 @@
       "phone": "",
       "social": "https://www.facebook.com/william.hallett.391",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:21:42.129Z"
     },
@@ -10291,5 +10291,5 @@
       "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-13T14:30:36.825Z"
+  "lastUpdated": "2026-06-13T14:31:32.026Z"
 }
