@@ -6317,14 +6317,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61553106097188",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:03:24.048Z"
     },
@@ -10291,5 +10291,5 @@
       "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-13T14:43:00.286Z"
+  "lastUpdated": "2026-06-13T14:43:54.321Z"
 }
