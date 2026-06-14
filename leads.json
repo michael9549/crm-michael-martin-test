@@ -10302,12 +10302,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-13",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-06-16",
       "notes": "",
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:36:11.427Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:36:11.427Z"
+  "lastUpdated": "2026-06-14T02:36:24.429Z"
 }
