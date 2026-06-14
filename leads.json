@@ -10379,7 +10379,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:38:49.298Z"
+    },
+    {
+      "id": "mqd6edpgr1w948ewcbf",
+      "name": "Jesse Davis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jesse.davis.376043",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:39:19.780Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:38:49.298Z"
+  "lastUpdated": "2026-06-14T02:39:19.780Z"
 }
