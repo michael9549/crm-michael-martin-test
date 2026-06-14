@@ -10289,7 +10289,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:57:57.483Z"
+    },
+    {
+      "id": "mqd6acdf87wutexjk7x",
+      "name": "Jim Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jim.johnson.733710",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:36:11.427Z"
     }
   ],
-  "lastUpdated": "2026-06-13T16:09:04.816Z"
+  "lastUpdated": "2026-06-14T02:36:11.427Z"
 }
