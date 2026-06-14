@@ -7326,14 +7326,14 @@
       "phone": "",
       "social": "https://www.facebook.com/stephanie.ray.693804",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-11",
+      "lastModified": "2026-06-14",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:28:37.064Z"
     },
@@ -10651,5 +10651,5 @@
       "addedAt": "2026-06-14T02:48:12.654Z"
     }
   ],
-  "lastUpdated": "2026-06-14T16:23:55.030Z"
+  "lastUpdated": "2026-06-14T16:24:31.913Z"
 }
