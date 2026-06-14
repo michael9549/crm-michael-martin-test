@@ -10397,7 +10397,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:39:19.780Z"
+    },
+    {
+      "id": "mqd6f2wfxtvvggbzuqp",
+      "name": "Scott Alan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/scott.alan.904750",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:39:52.431Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:39:19.780Z"
+  "lastUpdated": "2026-06-14T02:39:52.431Z"
 }
