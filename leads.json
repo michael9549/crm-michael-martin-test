@@ -10361,7 +10361,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:38:13.329Z"
+    },
+    {
+      "id": "mqd6dq6qm8h9a68915",
+      "name": "Dyana Barron",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dyana.barron.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:38:49.298Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:38:13.329Z"
+  "lastUpdated": "2026-06-14T02:38:49.298Z"
 }
