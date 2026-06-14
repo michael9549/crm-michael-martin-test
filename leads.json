@@ -10469,7 +10469,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:41:32.650Z"
+    },
+    {
+      "id": "mqd6jmhc6n7o09i0ceq",
+      "name": "Julio Ceasar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100060005277147",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:43:24.432Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:41:32.650Z"
+  "lastUpdated": "2026-06-14T02:43:24.432Z"
 }
