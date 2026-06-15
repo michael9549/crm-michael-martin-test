@@ -8659,14 +8659,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100074691811555",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-15",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:38:43.724Z"
     },
@@ -11137,5 +11137,5 @@
       "addedAt": "2026-06-15T01:32:28.410Z"
     }
   ],
-  "lastUpdated": "2026-06-15T18:23:09.119Z"
+  "lastUpdated": "2026-06-15T18:23:37.958Z"
 }
