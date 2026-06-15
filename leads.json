@@ -5379,14 +5379,14 @@
       "phone": "",
       "social": "https://www.facebook.com/taylor.hayes.969",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-11",
+      "lastModified": "2026-06-14",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:01:34.205Z"
     },
@@ -10651,5 +10651,5 @@
       "addedAt": "2026-06-14T02:48:12.654Z"
     }
   ],
-  "lastUpdated": "2026-06-15T00:58:28.407Z"
+  "lastUpdated": "2026-06-15T00:58:48.791Z"
 }
