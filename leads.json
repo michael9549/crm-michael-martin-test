@@ -11045,7 +11045,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:27:42.958Z"
+    },
+    {
+      "id": "mqejaz594zfhes5h13l",
+      "name": "Suraj Nagarwal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/suraj.nagarwal.589",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:28:22.125Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:27:42.958Z"
+  "lastUpdated": "2026-06-15T01:28:22.125Z"
 }
