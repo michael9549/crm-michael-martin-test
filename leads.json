@@ -7632,14 +7632,14 @@
       "phone": "",
       "social": "https://www.facebook.com/xavier.stege",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-15",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:29:39.115Z"
     },
@@ -11137,5 +11137,5 @@
       "addedAt": "2026-06-15T01:32:28.410Z"
     }
   ],
-  "lastUpdated": "2026-06-15T18:40:38.064Z"
+  "lastUpdated": "2026-06-15T18:41:03.910Z"
 }
