@@ -9775,14 +9775,14 @@
       "phone": "",
       "social": "https://www.facebook.com/DavidDenton317",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-15",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:15:55.530Z"
     },
@@ -11137,5 +11137,5 @@
       "addedAt": "2026-06-15T01:32:28.410Z"
     }
   ],
-  "lastUpdated": "2026-06-15T18:09:49.828Z"
+  "lastUpdated": "2026-06-15T18:10:25.138Z"
 }
