@@ -10703,7 +10703,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:08:50.660Z"
+    },
+    {
+      "id": "mqeimsyfeios531lb2",
+      "name": "Everett Cooper",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/everett.cooper.31",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:09:34.359Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:08:50.660Z"
+  "lastUpdated": "2026-06-15T01:09:34.359Z"
 }
