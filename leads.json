@@ -10865,7 +10865,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:16:11.368Z"
+    },
+    {
+      "id": "mqeiwf4r1gka94a3da7",
+      "name": "Conner Rueca",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/conner.rueca",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:17:03.003Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:16:11.368Z"
+  "lastUpdated": "2026-06-15T01:17:03.003Z"
 }
