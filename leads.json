@@ -10775,7 +10775,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:11:06.160Z"
+    },
+    {
+      "id": "mqeipg1k2ultrmspk29",
+      "name": "Nicholas Flores",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nickflores347",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:11:37.592Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:11:06.160Z"
+  "lastUpdated": "2026-06-15T01:11:37.592Z"
 }
