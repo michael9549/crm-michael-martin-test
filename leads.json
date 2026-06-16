@@ -11477,7 +11477,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:33:51.169Z"
+    },
+    {
+      "id": "mqfyyijjbrayedjclr",
+      "name": "Arthur Tuggle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/superior.legacy.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:34:20.767Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:33:51.169Z"
+  "lastUpdated": "2026-06-16T01:34:20.767Z"
 }
