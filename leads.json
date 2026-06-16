@@ -11513,7 +11513,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:34:52.837Z"
+    },
+    {
+      "id": "mqfyzugpu63t61oe8n",
+      "name": "Londale Ross",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/londale.ross.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:35:22.873Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:34:52.837Z"
+  "lastUpdated": "2026-06-16T01:35:22.873Z"
 }
