@@ -11225,7 +11225,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:13:38.223Z"
+    },
+    {
+      "id": "mqfy93oby8pb9sbf2pc",
+      "name": "Dimitri Lianoudakis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dimitris.lianoudakis.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:14:35.099Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:13:38.223Z"
+  "lastUpdated": "2026-06-16T01:14:35.099Z"
 }
