@@ -11333,7 +11333,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:27:05.618Z"
+    },
+    {
+      "id": "mqfypunvme0vxe4bxkf",
+      "name": "Russ Hayes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/russ.hayes.100",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:27:36.571Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:27:05.618Z"
+  "lastUpdated": "2026-06-16T01:27:36.571Z"
 }
