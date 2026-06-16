@@ -11207,7 +11207,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:07:55.018Z"
+    },
+    {
+      "id": "mqfy7vsfznxp34zcbea",
+      "name": "Rich Becker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rich.becker.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:13:38.223Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:07:55.018Z"
+  "lastUpdated": "2026-06-16T01:13:38.223Z"
 }
