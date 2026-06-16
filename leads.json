@@ -11603,7 +11603,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:38:48.630Z"
+    },
+    {
+      "id": "mqfz4vtg5nuloc7gdoa",
+      "name": "Mark Santana",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mark.santana.75248",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:39:17.908Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:38:48.630Z"
+  "lastUpdated": "2026-06-16T01:39:17.908Z"
 }
