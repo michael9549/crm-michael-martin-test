@@ -11819,7 +11819,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T21:56:56.950Z"
+    },
+    {
+      "id": "mqim3fhlpvp5swbtblo",
+      "name": "Sidney Robinson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sidney.robinson.311",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T21:57:33.609Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:56:56.950Z"
+  "lastUpdated": "2026-06-17T21:57:33.609Z"
 }
