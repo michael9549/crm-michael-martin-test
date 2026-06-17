@@ -11747,7 +11747,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T21:54:26.345Z"
+    },
+    {
+      "id": "mqim0dk1bsznkw8wjfq",
+      "name": "Vik Moosai",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vik.moosai",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T21:55:11.137Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:54:26.345Z"
+  "lastUpdated": "2026-06-17T21:55:11.137Z"
 }
