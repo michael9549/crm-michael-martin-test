@@ -11765,7 +11765,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T21:55:11.137Z"
+    },
+    {
+      "id": "mqim157njd5k1k3t2l",
+      "name": "Anthony Schreiber",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anthony.schreiber.7370",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T21:55:46.979Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:55:11.137Z"
+  "lastUpdated": "2026-06-17T21:55:46.979Z"
 }
