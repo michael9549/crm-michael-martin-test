@@ -11783,7 +11783,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T21:55:46.979Z"
+    },
+    {
+      "id": "mqim1wom01hlzofm48pz",
+      "name": "Keith Stewart",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/keith.stewart.52090008",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T21:56:22.582Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:55:46.979Z"
+  "lastUpdated": "2026-06-17T21:56:22.582Z"
 }
