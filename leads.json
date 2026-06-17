@@ -12089,7 +12089,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T23:02:11.924Z"
+    },
+    {
+      "id": "mqiofpj1mtnyyp1mqnj",
+      "name": "Sarah Jordan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sarah.throop",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T23:03:05.725Z"
     }
   ],
-  "lastUpdated": "2026-06-17T23:02:11.924Z"
+  "lastUpdated": "2026-06-17T23:03:05.725Z"
 }
