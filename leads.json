@@ -11927,7 +11927,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T22:02:08.272Z"
+    },
+    {
+      "id": "mqima2f993qwoq61g4e",
+      "name": "Stephanie Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephanie.johnson.963329",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T22:02:43.269Z"
     }
   ],
-  "lastUpdated": "2026-06-17T22:02:08.272Z"
+  "lastUpdated": "2026-06-17T22:02:43.269Z"
 }
