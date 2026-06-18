@@ -6227,14 +6227,14 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.ballard.3557",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-18",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-07-18",
       "notes": "",
-      "lastModified": "2026-06-15",
+      "lastModified": "2026-06-18",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:56:41.905Z"
     },
@@ -12235,5 +12235,5 @@
       "addedAt": "2026-06-17T23:08:23.144Z"
     }
   ],
-  "lastUpdated": "2026-06-18T18:46:10.573Z"
+  "lastUpdated": "2026-06-18T18:48:29.558Z"
 }
