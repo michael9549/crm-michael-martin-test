@@ -12305,7 +12305,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:28:55.519Z"
+    },
+    {
+      "id": "mqkb96yebau3jgj3vas",
+      "name": "Jesse Gamueda",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jesse.gamueda",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-21",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T02:29:39.062Z"
     }
   ],
-  "lastUpdated": "2026-06-19T02:28:55.519Z"
+  "lastUpdated": "2026-06-19T02:29:39.062Z"
 }
