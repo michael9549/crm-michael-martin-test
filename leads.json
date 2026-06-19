@@ -9379,16 +9379,17 @@
       "phone": "",
       "social": "https://www.facebook.com/faustino.gonzales.879648",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-16",
       "nextFollowUp": "2026-06-19",
       "notes": "",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-10",
-      "addedAt": "2026-06-11T00:55:30.945Z"
+      "addedAt": "2026-06-11T00:55:30.945Z",
+      "customerSince": "2026-06-19"
     },
     {
       "id": "mq8se04eyfqw5vkcb5b",
@@ -12775,5 +12776,5 @@
       "addedAt": "2026-06-19T02:47:06.296Z"
     }
   ],
-  "lastUpdated": "2026-06-19T21:32:42.735Z"
+  "lastUpdated": "2026-06-19T21:33:09.526Z"
 }
