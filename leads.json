@@ -9307,14 +9307,14 @@
       "phone": "",
       "social": "https://www.facebook.com/noah.kesslin",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-19",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-19",
       "notes": "",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:52:46.276Z"
     },
@@ -12776,5 +12776,5 @@
       "addedAt": "2026-06-19T02:47:06.296Z"
     }
   ],
-  "lastUpdated": "2026-06-19T21:41:59.795Z"
+  "lastUpdated": "2026-06-19T21:42:40.693Z"
 }
