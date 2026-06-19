@@ -9109,14 +9109,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100072103812683",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-19",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:43:24.582Z"
     },
@@ -12776,5 +12776,5 @@
       "addedAt": "2026-06-19T02:47:06.296Z"
     }
   ],
-  "lastUpdated": "2026-06-19T21:50:23.944Z"
+  "lastUpdated": "2026-06-19T21:50:50.267Z"
 }
