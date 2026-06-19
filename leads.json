@@ -12449,7 +12449,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:35:24.544Z"
+    },
+    {
+      "id": "mqkbhbjekayrdewe31",
+      "name": "Paul Hurst",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.hurst.9216778",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-21",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T02:35:58.250Z"
     }
   ],
-  "lastUpdated": "2026-06-19T02:35:24.544Z"
+  "lastUpdated": "2026-06-19T02:35:58.250Z"
 }
