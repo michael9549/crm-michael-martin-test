@@ -9253,14 +9253,14 @@
       "phone": "",
       "social": "https://www.facebook.com/brad.mitchell.542109",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-19",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:49:44.124Z"
     },
@@ -12776,5 +12776,5 @@
       "addedAt": "2026-06-19T02:47:06.296Z"
     }
   ],
-  "lastUpdated": "2026-06-19T21:45:39.854Z"
+  "lastUpdated": "2026-06-19T21:46:19.822Z"
 }
