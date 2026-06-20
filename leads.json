@@ -13278,7 +13278,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T01:00:56.796Z"
+    },
+    {
+      "id": "mqlnjjmrnbfu6c4j9ir",
+      "name": "Demetrius Kilgore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/demetrius.kilgore.98",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T01:01:23.619Z"
     }
   ],
-  "lastUpdated": "2026-06-20T01:00:56.796Z"
+  "lastUpdated": "2026-06-20T01:01:23.619Z"
 }
