@@ -13026,7 +13026,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:51:55.290Z"
+    },
+    {
+      "id": "mqln86jz264hyie5d8g",
+      "name": "Charlie Wyngarden",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charlie.wyngarden.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:52:33.455Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:51:55.290Z"
+  "lastUpdated": "2026-06-20T00:52:33.455Z"
 }
