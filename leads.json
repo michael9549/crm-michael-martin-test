@@ -11018,16 +11018,17 @@
       "phone": "",
       "social": "https://www.facebook.com/slinky.ps.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-20",
+      "nextFollowUp": "2027-06-20",
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-20",
       "dateAdded": "2026-06-14",
-      "addedAt": "2026-06-15T01:27:11.091Z"
+      "addedAt": "2026-06-15T01:27:11.091Z",
+      "customerSince": "2026-06-20"
     },
     {
       "id": "mqeja4xa7pxoi5jcfwk",
@@ -13424,5 +13425,5 @@
       "addedAt": "2026-06-20T01:05:23.055Z"
     }
   ],
-  "lastUpdated": "2026-06-20T21:43:10.674Z"
+  "lastUpdated": "2026-06-20T21:44:06.030Z"
 }
