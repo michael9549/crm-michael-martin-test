@@ -12936,7 +12936,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:49:11.934Z"
+    },
+    {
+      "id": "mqln4iyy85z877mgdz4",
+      "name": "Frederick Heberling",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/freddy.heberling",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:49:42.922Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:49:11.934Z"
+  "lastUpdated": "2026-06-20T00:49:42.922Z"
 }
