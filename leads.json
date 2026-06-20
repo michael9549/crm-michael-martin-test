@@ -12828,7 +12828,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:44:15.540Z"
+    },
+    {
+      "id": "mqlmyecrpw08enwts9",
+      "name": "Richie P Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100043243176069",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:44:57.003Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:44:15.540Z"
+  "lastUpdated": "2026-06-20T00:44:57.003Z"
 }
