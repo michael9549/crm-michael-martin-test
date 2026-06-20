@@ -10910,14 +10910,14 @@
       "phone": "",
       "social": "https://www.facebook.com/cassandra.tremblay.180",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-20",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-20",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:18:48.487Z"
     },
@@ -13425,5 +13425,5 @@
       "addedAt": "2026-06-20T01:05:23.055Z"
     }
   ],
-  "lastUpdated": "2026-06-20T21:46:10.113Z"
+  "lastUpdated": "2026-06-20T21:46:25.762Z"
 }
