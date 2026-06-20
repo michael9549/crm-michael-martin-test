@@ -10658,14 +10658,14 @@
       "phone": "",
       "social": "https://www.facebook.com/loveneetrajora27",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-20",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-20",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:07:34.293Z"
     },
@@ -13425,5 +13425,5 @@
       "addedAt": "2026-06-20T01:05:23.055Z"
     }
   ],
-  "lastUpdated": "2026-06-20T22:14:00.277Z"
+  "lastUpdated": "2026-06-20T22:14:26.254Z"
 }
