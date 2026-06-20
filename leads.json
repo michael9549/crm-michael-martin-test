@@ -13368,7 +13368,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T01:03:46.418Z"
+    },
+    {
+      "id": "mqlnn85esikfolxu3kn",
+      "name": "Tyler J Laney",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tyler.laney.96",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T01:04:15.362Z"
     }
   ],
-  "lastUpdated": "2026-06-20T01:03:46.418Z"
+  "lastUpdated": "2026-06-20T01:04:15.362Z"
 }
