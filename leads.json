@@ -12080,14 +12080,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ChrisJonesILM",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-20",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-20",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T23:02:11.924Z"
     },
@@ -13424,5 +13424,5 @@
       "addedAt": "2026-06-20T01:05:23.055Z"
     }
   ],
-  "lastUpdated": "2026-06-20T21:28:41.641Z"
+  "lastUpdated": "2026-06-20T21:28:58.286Z"
 }
