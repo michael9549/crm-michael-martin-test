@@ -13062,7 +13062,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:53:06.907Z"
+    },
+    {
+      "id": "mqlnaic7sxqorl407dh",
+      "name": "James Gillespie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.gillespie.397501",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:54:22.039Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:53:06.907Z"
+  "lastUpdated": "2026-06-20T00:54:22.039Z"
 }
