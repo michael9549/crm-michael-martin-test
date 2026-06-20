@@ -9668,14 +9668,14 @@
       "phone": "",
       "social": "https://www.facebook.com/cece.mamta.1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-20",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-20",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:34:14.239Z"
     },
@@ -13425,5 +13425,5 @@
       "addedAt": "2026-06-20T01:05:23.055Z"
     }
   ],
-  "lastUpdated": "2026-06-20T22:15:52.874Z"
+  "lastUpdated": "2026-06-20T22:16:21.177Z"
 }
