@@ -12098,14 +12098,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sarah.throop",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-20",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-07-20",
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-20",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T23:03:05.725Z"
     },
@@ -13424,5 +13424,5 @@
       "addedAt": "2026-06-20T01:05:23.055Z"
     }
   ],
-  "lastUpdated": "2026-06-20T21:28:04.023Z"
+  "lastUpdated": "2026-06-20T21:28:41.641Z"
 }
