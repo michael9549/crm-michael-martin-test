@@ -13658,7 +13658,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:49:31.395Z"
+    },
+    {
+      "id": "mqn2kxq5oq3is6gemw",
+      "name": "Jeff Tauzin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeff.tauzin.96",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:50:08.957Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:49:31.395Z"
+  "lastUpdated": "2026-06-21T00:50:08.957Z"
 }
