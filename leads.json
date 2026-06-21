@@ -13910,7 +13910,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T01:04:34.419Z"
+    },
+    {
+      "id": "mqn349k4s77wwls0s6b",
+      "name": "Carlos Flores",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carlos.flores.579064",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T01:05:10.757Z"
     }
   ],
-  "lastUpdated": "2026-06-21T01:04:34.419Z"
+  "lastUpdated": "2026-06-21T01:05:10.757Z"
 }
