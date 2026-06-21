@@ -13568,7 +13568,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:43:10.087Z"
+    },
+    {
+      "id": "mqn2dew5pe4qtnn913c",
+      "name": "Corey Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/corey.jones.540747",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:44:17.957Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:43:10.087Z"
+  "lastUpdated": "2026-06-21T00:44:17.957Z"
 }
