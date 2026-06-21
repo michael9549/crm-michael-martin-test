@@ -13784,7 +13784,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:58:52.672Z"
+    },
+    {
+      "id": "mqn2wp6dub1r2u2xcwi",
+      "name": "Labh Barua",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/labh.barua.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:59:17.749Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:58:52.672Z"
+  "lastUpdated": "2026-06-21T00:59:17.749Z"
 }
