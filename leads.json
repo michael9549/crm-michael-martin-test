@@ -13946,7 +13946,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T01:05:38.757Z"
+    },
+    {
+      "id": "mqn35gchos0lxifcrqo",
+      "name": "Vahida Salic-Shaw",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vahida.salic",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-21T01:05:38.757Z"
+  "lastUpdated": "2026-06-21T01:06:06.209Z"
 }
