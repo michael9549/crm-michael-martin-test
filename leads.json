@@ -13856,7 +13856,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T01:02:32.432Z"
+    },
+    {
+      "id": "mqn31hseb2re9l5qkgn",
+      "name": "Heyner Ramirez Bogarin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/digitalconheyner",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T01:03:01.454Z"
     }
   ],
-  "lastUpdated": "2026-06-21T01:02:32.432Z"
+  "lastUpdated": "2026-06-21T01:03:01.454Z"
 }
