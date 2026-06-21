@@ -13712,7 +13712,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:51:13.239Z"
+    },
+    {
+      "id": "mqn2n2tsw0plzil0qhd",
+      "name": "Andrew Guthrie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andrew.guthrie.758",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:51:48.880Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:51:13.239Z"
+  "lastUpdated": "2026-06-21T00:51:48.880Z"
 }
