@@ -9957,14 +9957,14 @@
       "phone": "",
       "social": "https://www.facebook.com/edsgar.garay",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-21",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:33:05.058Z"
     },
@@ -13966,5 +13966,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-21T18:54:32.308Z"
+  "lastUpdated": "2026-06-21T18:54:44.564Z"
 }
