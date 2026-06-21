@@ -13604,7 +13604,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:45:17.434Z"
+    },
+    {
+      "id": "mqn2inwdz5ja58qlnnh",
+      "name": "Chris Hutchison",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chrispatriot1776/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:48:22.909Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:47:29.385Z"
+  "lastUpdated": "2026-06-21T00:48:22.909Z"
 }
