@@ -12694,14 +12694,14 @@
       "phone": "",
       "social": "https://www.facebook.com/norville.rodgers.547",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-21",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:44:32.223Z"
     },
@@ -13966,5 +13966,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-21T18:11:32.302Z"
+  "lastUpdated": "2026-06-21T18:11:50.922Z"
 }
