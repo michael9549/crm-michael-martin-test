@@ -13874,7 +13874,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T01:03:01.454Z"
+    },
+    {
+      "id": "mqn32387og4u9xebrwr",
+      "name": "Nick Knabe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.knabe.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T01:03:29.239Z"
     }
   ],
-  "lastUpdated": "2026-06-21T01:03:01.454Z"
+  "lastUpdated": "2026-06-21T01:03:29.239Z"
 }
