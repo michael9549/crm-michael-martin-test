@@ -9903,14 +9903,14 @@
       "phone": "",
       "social": "https://www.facebook.com/robert.swims.71",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-21",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:31:14.142Z"
     },
@@ -13966,5 +13966,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-21T18:54:56.862Z"
+  "lastUpdated": "2026-06-21T18:55:25.906Z"
 }
