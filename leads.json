@@ -13622,7 +13622,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:48:22.909Z"
+    },
+    {
+      "id": "mqn2jejm3602ed1zziv",
+      "name": "Shane Burt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shane.burt.125",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:48:57.442Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:48:22.909Z"
+  "lastUpdated": "2026-06-21T00:48:57.442Z"
 }
