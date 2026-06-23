@@ -14168,7 +14168,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:53:06.462Z"
+    },
+    {
+      "id": "mqr062td8rfk84jzjjl",
+      "name": "Keo Souvannaleuth",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/keo.souvannaleuth.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T18:53:41.185Z"
     }
   ],
-  "lastUpdated": "2026-06-23T18:53:06.462Z"
+  "lastUpdated": "2026-06-23T18:53:41.185Z"
 }
