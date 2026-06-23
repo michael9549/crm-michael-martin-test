@@ -14420,7 +14420,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T19:04:23.768Z"
+    },
+    {
+      "id": "mqr0kpn7u69wdp4hwqa",
+      "name": "Sam Cole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sam.cole.524381",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T19:05:03.955Z"
     }
   ],
-  "lastUpdated": "2026-06-23T19:04:23.768Z"
+  "lastUpdated": "2026-06-23T19:05:03.955Z"
 }
