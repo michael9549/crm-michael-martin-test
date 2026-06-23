@@ -11956,14 +11956,14 @@
       "phone": "",
       "social": "https://www.facebook.com/robert.collins.347007",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T22:03:22.335Z"
     },
@@ -13967,5 +13967,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T14:15:23.391Z"
+  "lastUpdated": "2026-06-23T14:15:34.891Z"
 }
