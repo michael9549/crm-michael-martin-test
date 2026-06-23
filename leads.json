@@ -10893,14 +10893,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jordan.holt.503",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:17:49.836Z"
     },
@@ -13967,5 +13967,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T14:25:13.486Z"
+  "lastUpdated": "2026-06-23T14:25:45.046Z"
 }
