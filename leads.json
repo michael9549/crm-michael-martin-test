@@ -14384,7 +14384,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T19:03:01.958Z"
+    },
+    {
+      "id": "mqr0j7wfkhtid82juy",
+      "name": "Virgil Thomas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/virgil.thomas.12720",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T19:03:54.303Z"
     }
   ],
-  "lastUpdated": "2026-06-23T19:03:01.958Z"
+  "lastUpdated": "2026-06-23T19:03:54.303Z"
 }
