@@ -14042,7 +14042,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:46:53.590Z"
+    },
+    {
+      "id": "mqqzxzxlafjz2xkkoab",
+      "name": "Amit Mathur",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/AmitMathur1000Kv",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T18:47:24.201Z"
     }
   ],
-  "lastUpdated": "2026-06-23T18:46:53.590Z"
+  "lastUpdated": "2026-06-23T18:47:24.201Z"
 }
