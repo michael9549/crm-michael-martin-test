@@ -8029,14 +8029,14 @@
       "phone": "",
       "social": "https://www.facebook.com/daniel.di.maio.2025",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:26:46.025Z"
     },
@@ -13967,5 +13967,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T14:35:58.245Z"
+  "lastUpdated": "2026-06-23T14:36:20.609Z"
 }
