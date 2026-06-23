@@ -208,14 +208,15 @@
       "phone": "",
       "social": "https://www.facebook.com/WilduntamedRising",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbrhcjb3hlxd1svwtn",
@@ -13971,5 +13972,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T14:39:38.804Z"
+  "lastUpdated": "2026-06-23T14:40:00.539Z"
 }
