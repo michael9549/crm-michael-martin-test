@@ -14222,7 +14222,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:55:00.143Z"
+    },
+    {
+      "id": "mqr095245yy1bno8oai",
+      "name": "Yul QuiñOnes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/yul.quinones",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T18:56:04.060Z"
     }
   ],
-  "lastUpdated": "2026-06-23T18:55:00.143Z"
+  "lastUpdated": "2026-06-23T18:56:04.060Z"
 }
