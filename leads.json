@@ -14240,7 +14240,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:56:04.060Z"
+    },
+    {
+      "id": "mqr09ub2c4eb3awxq3g",
+      "name": "Julio Llamas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/julio.llamas.90281",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T18:56:36.782Z"
     }
   ],
-  "lastUpdated": "2026-06-23T18:56:04.060Z"
+  "lastUpdated": "2026-06-23T18:56:36.782Z"
 }
