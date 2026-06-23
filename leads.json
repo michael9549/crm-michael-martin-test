@@ -174,14 +174,15 @@
       "phone": "",
       "social": "https://www.facebook.com/alex.clark.669046",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbrdsasi5nvkuxti",
@@ -13969,5 +13970,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T14:37:36.518Z"
+  "lastUpdated": "2026-06-23T14:38:27.013Z"
 }
