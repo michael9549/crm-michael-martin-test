@@ -14114,7 +14114,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:49:41.797Z"
+    },
+    {
+      "id": "mqr01qr1f5rfthyv6it",
+      "name": "Jason Ward",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ezequiel.paulson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T18:50:18.925Z"
     }
   ],
-  "lastUpdated": "2026-06-23T18:49:41.797Z"
+  "lastUpdated": "2026-06-23T18:50:18.925Z"
 }
