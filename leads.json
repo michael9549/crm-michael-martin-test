@@ -14514,7 +14514,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T23:14:50.046Z"
+    },
+    {
+      "id": "mqsoys3ox0oag59dmzn",
+      "name": "Allan Jimenez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/allan.jimenez.7121614",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T23:15:37.284Z"
     }
   ],
-  "lastUpdated": "2026-06-24T23:14:50.046Z"
+  "lastUpdated": "2026-06-24T23:15:37.284Z"
 }
