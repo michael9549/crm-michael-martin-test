@@ -1947,15 +1947,17 @@
       "phone": "",
       "social": "https://www.facebook.com/james.phipps.73",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-06-25",
-      "notes": "Coming back to america",
-      "lastModified": "2026-05-26",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T13:06:13.325Z"
+      "addedAt": "2026-05-26T13:06:13.325Z",
+      "videoSent": false,
+      "customerSince": "2026-06-24"
     },
     {
       "id": "mpmrsyj8tdl7synwqsn",
@@ -14476,5 +14478,5 @@
       "addedAt": "2026-06-23T19:06:27.672Z"
     }
   ],
-  "lastUpdated": "2026-06-23T19:06:27.672Z"
+  "lastUpdated": "2026-06-24T14:12:01.241Z"
 }
