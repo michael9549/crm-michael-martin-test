@@ -11675,14 +11675,14 @@
       "phone": "",
       "social": "https://www.facebook.com/troy.bailey.9406",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-21",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-21",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:41:13.888Z"
     },
@@ -14478,5 +14478,5 @@
       "addedAt": "2026-06-23T19:06:27.672Z"
     }
   ],
-  "lastUpdated": "2026-06-24T15:54:52.891Z"
+  "lastUpdated": "2026-06-24T15:55:37.091Z"
 }
