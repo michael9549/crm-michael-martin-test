@@ -10090,14 +10090,14 @@
       "phone": "",
       "social": "https://www.facebook.com/juan.curiel.digital",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-21",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-21",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:43:32.998Z"
     },
@@ -14478,5 +14478,5 @@
       "addedAt": "2026-06-23T19:06:27.672Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:30:04.933Z"
+  "lastUpdated": "2026-06-24T16:30:32.102Z"
 }
