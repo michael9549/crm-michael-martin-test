@@ -14532,7 +14532,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T23:15:37.284Z"
+    },
+    {
+      "id": "mqsozmko5v2tucwsfml",
+      "name": "Jeff Lessard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeff.lessard.5458",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T23:16:16.776Z"
     }
   ],
-  "lastUpdated": "2026-06-24T23:15:37.284Z"
+  "lastUpdated": "2026-06-24T23:16:16.776Z"
 }
