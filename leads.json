@@ -10144,14 +10144,14 @@
       "phone": "",
       "social": "https://www.facebook.com/francisco.diaz.273065",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-21",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-21",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:46:32.101Z"
     },
@@ -14478,5 +14478,5 @@
       "addedAt": "2026-06-23T19:06:27.672Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:29:11.218Z"
+  "lastUpdated": "2026-06-24T16:29:35.882Z"
 }
