@@ -9838,14 +9838,14 @@
       "phone": "",
       "social": "https://www.facebook.com/richard.justin.463221",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-21",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-21",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:18:12.597Z"
     },
@@ -14478,5 +14478,5 @@
       "addedAt": "2026-06-23T19:06:27.672Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:31:18.340Z"
+  "lastUpdated": "2026-06-24T16:31:38.211Z"
 }
