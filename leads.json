@@ -14496,7 +14496,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T23:13:39.493Z"
+    },
+    {
+      "id": "mqsoxrni9z69rp25y5v",
+      "name": "Stuart McLaughlin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stuart.mclaughlin.902",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T23:14:50.046Z"
     }
   ],
-  "lastUpdated": "2026-06-24T23:13:39.493Z"
+  "lastUpdated": "2026-06-24T23:14:50.046Z"
 }
