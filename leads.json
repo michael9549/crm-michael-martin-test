@@ -13387,14 +13387,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tyler.laney.96",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-25",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T01:04:15.362Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-25T14:42:37.960Z"
+  "lastUpdated": "2026-06-25T14:43:11.034Z"
 }
