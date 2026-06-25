@@ -10578,14 +10578,14 @@
       "phone": "",
       "social": "https://www.facebook.com/donnebonn.marie",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-25",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:46:14.036Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-25T15:35:56.812Z"
+  "lastUpdated": "2026-06-25T15:36:14.079Z"
 }
