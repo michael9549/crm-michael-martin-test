@@ -13117,14 +13117,14 @@
       "phone": "",
       "social": "https://www.facebook.com/carlton.dickens.official",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-25",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:55:21.507Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-25T14:54:39.744Z"
+  "lastUpdated": "2026-06-25T14:54:59.953Z"
 }
