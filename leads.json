@@ -11875,14 +11875,14 @@
       "phone": "",
       "social": "https://www.facebook.com/1percentden",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T22:00:26.644Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-26T22:11:12.429Z"
+  "lastUpdated": "2026-06-26T22:13:56.489Z"
 }
