@@ -11083,14 +11083,14 @@
       "phone": "",
       "social": "https://www.facebook.com/thesohagdesk",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:29:01.223Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-26T22:17:08.264Z"
+  "lastUpdated": "2026-06-26T22:17:27.096Z"
 }
