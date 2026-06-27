@@ -12417,14 +12417,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sriyash.dixit.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-06-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:34:16.935Z"
     },
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-27T20:02:56.421Z"
+  "lastUpdated": "2026-06-27T20:03:44.371Z"
 }
