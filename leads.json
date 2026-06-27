@@ -12453,14 +12453,14 @@
       "phone": "",
       "social": "https://www.facebook.com/alan.lawson.79656",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-06-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:35:24.544Z"
     },
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-27T19:59:28.460Z"
+  "lastUpdated": "2026-06-27T20:00:16.151Z"
 }
