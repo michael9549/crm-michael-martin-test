@@ -14842,7 +14842,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T21:46:58.013Z"
+    },
+    {
+      "id": "mqyc29xp45d2wt869xm",
+      "name": "Thomas Faaliliu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thomas.faaliliu.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T22:01:02.413Z"
     }
   ],
-  "lastUpdated": "2026-06-28T21:46:58.013Z"
+  "lastUpdated": "2026-06-28T22:01:02.413Z"
 }
