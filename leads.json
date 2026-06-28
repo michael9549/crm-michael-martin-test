@@ -13177,10 +13177,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-06-28",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
       "notes": "",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-06-28",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:56:42.749Z"
     },
@@ -13196,7 +13196,7 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-25",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-06-28",
       "notes": "",
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-19",
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-28T16:06:11.140Z"
+  "lastUpdated": "2026-06-28T16:07:26.520Z"
 }
