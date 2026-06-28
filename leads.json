@@ -15220,7 +15220,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:13:02.263Z"
+    },
+    {
+      "id": "mqycia5v5mf8npmptx5",
+      "name": "Omar Medina",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/omar.medina.409458",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T22:13:29.203Z"
     }
   ],
-  "lastUpdated": "2026-06-28T22:13:02.263Z"
+  "lastUpdated": "2026-06-28T22:13:29.203Z"
 }
