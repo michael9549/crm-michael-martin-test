@@ -14344,14 +14344,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kelly.conners.127",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-06-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T19:01:12.280Z"
     },
@@ -15294,5 +15294,5 @@
       "addedAt": "2026-06-28T22:15:06.230Z"
     }
   ],
-  "lastUpdated": "2026-06-29T14:42:18.305Z"
+  "lastUpdated": "2026-06-29T14:42:48.746Z"
 }
