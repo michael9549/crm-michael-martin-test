@@ -15400,7 +15400,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:30:50.225Z"
+    },
+    {
+      "id": "mqzdl9ivnb9al3ywzun",
+      "name": "Jordan Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jordan.smith.170238",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T15:31:34.135Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:30:50.225Z"
+  "lastUpdated": "2026-06-29T15:31:34.135Z"
 }
