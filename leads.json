@@ -13641,14 +13641,14 @@
       "phone": "",
       "social": "https://www.facebook.com/shane.burt.125",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-06-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:48:57.442Z"
     },
@@ -15294,5 +15294,5 @@
       "addedAt": "2026-06-28T22:15:06.230Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:07:38.397Z"
+  "lastUpdated": "2026-06-29T15:08:03.816Z"
 }
