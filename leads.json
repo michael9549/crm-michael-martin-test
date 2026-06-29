@@ -14434,14 +14434,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sam.cole.524381",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-06-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T19:05:03.955Z"
     },
@@ -15294,5 +15294,5 @@
       "addedAt": "2026-06-28T22:15:06.230Z"
     }
   ],
-  "lastUpdated": "2026-06-29T14:28:51.351Z"
+  "lastUpdated": "2026-06-29T14:29:51.079Z"
 }
