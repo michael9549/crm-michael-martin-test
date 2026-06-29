@@ -15490,7 +15490,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:35:02.113Z"
+    },
+    {
+      "id": "mqzdqsmbv4neko9n6gp",
+      "name": "Jimmy Davenport",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jimmy.davenport.1291",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T15:35:52.163Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:35:02.113Z"
+  "lastUpdated": "2026-06-29T15:35:52.163Z"
 }
