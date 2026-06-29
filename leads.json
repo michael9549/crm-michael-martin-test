@@ -15310,7 +15310,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:27:46.817Z"
+    },
+    {
+      "id": "mqzdh2tgu01yplhs8ik",
+      "name": "Otto Lou",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/otto.lou.77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T15:28:18.820Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:27:46.817Z"
+  "lastUpdated": "2026-06-29T15:28:18.820Z"
 }
