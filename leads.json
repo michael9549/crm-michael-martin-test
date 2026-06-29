@@ -15598,7 +15598,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:38:29.552Z"
+    },
+    {
+      "id": "mqzduvqdm30m6eb1sea",
+      "name": "Bryon Ingle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/BINGLE72",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T15:39:02.821Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:38:29.552Z"
+  "lastUpdated": "2026-06-29T15:39:02.821Z"
 }
