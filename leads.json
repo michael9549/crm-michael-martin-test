@@ -15418,7 +15418,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:31:34.135Z"
+    },
+    {
+      "id": "mqzdmdaydrbw5z1df3e",
+      "name": "Austin Bowling",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/austin.phillips.98892",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T15:32:25.690Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:31:34.135Z"
+  "lastUpdated": "2026-06-29T15:32:25.690Z"
 }
