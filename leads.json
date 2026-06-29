@@ -13605,14 +13605,14 @@
       "phone": "",
       "social": "https://www.facebook.com/zohaib.valliani.1",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-06-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:45:17.434Z"
     },
@@ -15294,5 +15294,5 @@
       "addedAt": "2026-06-28T22:15:06.230Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:08:52.548Z"
+  "lastUpdated": "2026-06-29T15:09:22.160Z"
 }
