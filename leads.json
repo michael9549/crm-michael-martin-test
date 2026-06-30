@@ -15742,7 +15742,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:47:09.851Z"
+    },
+    {
+      "id": "mr0tp7mahuf7senry9",
+      "name": "Cameron Moses",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cameron.moses.353",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:50:18.322Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:47:09.851Z"
+  "lastUpdated": "2026-06-30T15:50:18.322Z"
 }
