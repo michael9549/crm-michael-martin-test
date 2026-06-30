@@ -15796,7 +15796,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:58:25.505Z"
+    },
+    {
+      "id": "mr0u0r3cayakj4jltu",
+      "name": "Natalie Mendoza",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/natalie.mendoza.26625",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:59:16.776Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:58:25.505Z"
+  "lastUpdated": "2026-06-30T15:59:16.776Z"
 }
