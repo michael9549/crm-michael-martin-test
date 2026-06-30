@@ -15634,7 +15634,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:39:30.195Z"
+    },
+    {
+      "id": "mr0tgyr2kd9gs081o8l",
+      "name": "Danny Glover",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dannyglover1981",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:43:53.582Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:24:56.537Z"
+  "lastUpdated": "2026-06-30T15:43:53.582Z"
 }
