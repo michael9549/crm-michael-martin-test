@@ -15814,7 +15814,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:59:16.776Z"
+    },
+    {
+      "id": "mr0u38zssr6jbf2m7a",
+      "name": "Mike Climbs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ms35725115",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T16:01:13.288Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:59:16.776Z"
+  "lastUpdated": "2026-06-30T16:01:13.288Z"
 }
