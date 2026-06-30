@@ -15706,7 +15706,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:46:00.244Z"
+    },
+    {
+      "id": "mr0tkfz31ycml62ry7aj",
+      "name": "Michael Kairys",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.kairys.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:46:35.871Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:46:00.245Z"
+  "lastUpdated": "2026-06-30T15:46:35.871Z"
 }
