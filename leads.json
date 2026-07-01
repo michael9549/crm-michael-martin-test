@@ -1393,13 +1393,13 @@
       "phone": "",
       "social": "https://www.facebook.com/wallyghe",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-07-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-07-01",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T00:55:16.696Z",
       "videoSent": false
@@ -15996,5 +15996,5 @@
       "addedAt": "2026-06-30T16:10:10.101Z"
     }
   ],
-  "lastUpdated": "2026-07-01T16:02:06.271Z"
+  "lastUpdated": "2026-07-01T16:02:27.874Z"
 }
