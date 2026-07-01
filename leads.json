@@ -15264,14 +15264,14 @@
       "phone": "",
       "social": "https://www.facebook.com/everisto.trujillo.50",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-28",
-      "nextFollowUp": "2026-07-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-28",
+      "lastModified": "2026-07-01",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:14:22.021Z"
     },
@@ -15996,5 +15996,5 @@
       "addedAt": "2026-06-30T16:10:10.101Z"
     }
   ],
-  "lastUpdated": "2026-07-01T15:48:01.123Z"
+  "lastUpdated": "2026-07-01T15:48:23.809Z"
 }
