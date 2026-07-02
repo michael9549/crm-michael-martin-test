@@ -13966,14 +13966,14 @@
       "phone": "",
       "social": "https://www.facebook.com/vahida.salic",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T01:06:06.209Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:36:31.750Z"
+  "lastUpdated": "2026-07-02T21:37:04.251Z"
 }
