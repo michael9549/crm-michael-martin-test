@@ -15462,14 +15462,14 @@
       "phone": "",
       "social": "https://www.facebook.com/cam.wade.334",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:33:24.559Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:11:21.681Z"
+  "lastUpdated": "2026-07-02T21:11:40.408Z"
 }
