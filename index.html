@@ -240,7 +240,6 @@
         <button class="nav-button" data-view="training">Training</button>
         <button class="nav-button" data-view="message-scripts">Message Scripts</button>
         <button class="nav-button" data-view="metrics">Metrics</button>
-        <button class="nav-button" onclick="forceSaveNow()" style="background: var(--success); color: white; margin-left: auto;">💾 Save Now</button>
         <button class="nav-button" onclick="logout()" style="background: var(--gray-100); color: var(--gray-600);">🚪 Logout</button>
       </div>
     </div>
@@ -1062,39 +1061,6 @@
     }
 
 
-    // Force save function - bypasses rate limit for manual saves
-    async function forceSaveNow() {
-      const btn = document.querySelector('button[onclick="forceSaveNow()"]');
-      if (btn) {
-        btn.textContent = '⏳ Saving...';
-        btn.disabled = true;
-      }
-      
-      // Temporarily reset lastSaveTime to allow immediate save
-      const previousLastSave = lastSaveTime;
-      lastSaveTime = 0;
-      
-      const success = await saveLeadsToGitHub();
-      
-      // Restore the rate limit tracking
-      if (!success) {
-        lastSaveTime = previousLastSave;
-      }
-      
-      if (btn) {
-        btn.textContent = success ? '✅ Saved!' : '❌ Failed';
-        setTimeout(() => {
-          btn.textContent = '💾 Save Now';
-          btn.disabled = false;
-        }, 2000);
-      }
-      
-      if (success) {
-        alert('Changes saved successfully!');
-      } else {
-        alert('Save failed. Please try again.');
-      }
-    }
     function isFollowUpDue(nextFollowUp) {
       if (!nextFollowUp) return false;
       const today = getTodayPacific();
