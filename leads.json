@@ -1465,13 +1465,13 @@
       "phone": "",
       "social": "https://www.facebook.com/rens.hoekstra.3",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-07-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:04:54.186Z",
       "videoSent": true
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:45:06.529Z"
+  "lastUpdated": "2026-07-02T21:45:36.811Z"
 }
