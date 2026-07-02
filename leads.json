@@ -16138,7 +16138,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:37:17.467Z"
+    },
+    {
+      "id": "mr2w9rvrq7njwk4wqqb",
+      "name": "Paulina Szarek",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paula.szareek",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T02:37:49.287Z"
     }
   ],
-  "lastUpdated": "2026-07-02T02:37:17.467Z"
+  "lastUpdated": "2026-07-02T02:37:49.287Z"
 }
