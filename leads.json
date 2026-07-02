@@ -14218,14 +14218,14 @@
       "phone": "",
       "social": "https://www.facebook.com/chrisheatherjohnson",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:55:00.143Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:22:17.342Z"
+  "lastUpdated": "2026-07-02T21:22:48.751Z"
 }
