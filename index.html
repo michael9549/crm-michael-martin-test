@@ -1017,9 +1017,9 @@
         return false;
       }
       
-      // Rate limit: minimum 15 seconds between saves
+      // Rate limit: minimum 2 seconds between saves
       const now = Date.now();
-      if (now - lastSaveTime < 15000) {
+      if (now - lastSaveTime < 2000) {
         console.log("Rate limited: too soon since last save");
         return false;
       }
