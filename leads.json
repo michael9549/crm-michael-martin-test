@@ -14669,14 +14669,14 @@
       "phone": "",
       "social": "https://www.facebook.com/carmen.reino.3511",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-25T00:39:11.462Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-03T13:36:44.274Z"
+  "lastUpdated": "2026-07-03T13:37:05.202Z"
 }
