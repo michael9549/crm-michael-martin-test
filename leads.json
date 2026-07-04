@@ -16606,7 +16606,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:39:43.064Z"
+    },
+    {
+      "id": "mr5r8i6hyl8jdxcr1ee",
+      "name": "Cliff Thompson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cliff.thompson.731",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:40:10.505Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:39:43.064Z"
+  "lastUpdated": "2026-07-04T02:40:10.505Z"
 }
