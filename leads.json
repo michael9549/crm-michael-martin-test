@@ -17038,7 +17038,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T14:59:52.131Z"
+    },
+    {
+      "id": "mr6hp9jsz1jbp3ryrsi",
+      "name": "Red Rustam",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rustam.rakhimovred",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T15:01:02.488Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:59:52.131Z"
+  "lastUpdated": "2026-07-04T15:01:02.488Z"
 }
