@@ -16966,7 +16966,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T14:54:25.415Z"
+    },
+    {
+      "id": "mr6hhmileopjh9prexj",
+      "name": "Aleksa Todorovic",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aleksa.todorovic.5473",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T14:55:06.045Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:54:25.415Z"
+  "lastUpdated": "2026-07-04T14:55:06.045Z"
 }
