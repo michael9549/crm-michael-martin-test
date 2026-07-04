@@ -16218,14 +16218,14 @@
       "phone": "",
       "social": "https://www.facebook.com/craig.marchant.775",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:41:40.438Z"
     },
@@ -16842,5 +16842,5 @@
       "addedAt": "2026-07-04T02:49:22.993Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:17:56.587Z"
+  "lastUpdated": "2026-07-04T14:18:28.759Z"
 }
