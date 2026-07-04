@@ -17020,7 +17020,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T14:59:22.421Z"
+    },
+    {
+      "id": "mr6hnr9fvgyr3ql5t8r",
+      "name": "Marian Krajcovic",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/im.marian.krajcovic",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T14:59:52.131Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:59:22.421Z"
+  "lastUpdated": "2026-07-04T14:59:52.131Z"
 }
