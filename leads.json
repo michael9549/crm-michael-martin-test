@@ -17056,7 +17056,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T15:01:02.488Z"
+    },
+    {
+      "id": "mr6hq5y6y9bi54offud",
+      "name": "Chad Weekley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chad.weekley.218990",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T15:01:44.478Z"
     }
   ],
-  "lastUpdated": "2026-07-04T15:01:02.488Z"
+  "lastUpdated": "2026-07-04T15:01:44.478Z"
 }
