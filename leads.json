@@ -16912,7 +16912,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T14:52:50.277Z"
+    },
+    {
+      "id": "mr6hfbfl0ord1cge5ffi",
+      "name": "Daniel Heidrich",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniel.heidrich.125",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T14:53:18.369Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:52:50.277Z"
+  "lastUpdated": "2026-07-04T14:53:18.369Z"
 }
