@@ -15120,14 +15120,14 @@
       "phone": "",
       "social": "https://www.facebook.com/james.reeshopkins.90",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:09:49.568Z"
     },
@@ -16842,5 +16842,5 @@
       "addedAt": "2026-07-04T02:49:22.993Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:27:50.420Z"
+  "lastUpdated": "2026-07-04T14:28:11.704Z"
 }
