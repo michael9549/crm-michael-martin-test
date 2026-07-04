@@ -16624,7 +16624,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:40:10.505Z"
+    },
+    {
+      "id": "mr5r9c2d4rl9e4znruo",
+      "name": "Deepak Saini",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/deepak.saini.848981",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:40:49.237Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:40:10.505Z"
+  "lastUpdated": "2026-07-04T02:40:49.237Z"
 }
