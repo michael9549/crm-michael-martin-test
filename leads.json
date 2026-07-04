@@ -16804,7 +16804,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:48:20.269Z"
+    },
+    {
+      "id": "mr5rjphek7mwl4cn6d",
+      "name": "Rashid H Hill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rashidh.hill",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:48:53.186Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:48:20.269Z"
+  "lastUpdated": "2026-07-04T02:48:53.186Z"
 }
