@@ -17236,7 +17236,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-05T03:33:10.060Z"
+    },
+    {
+      "id": "mr78l6mtqoyekp03ex",
+      "name": "Ryan Ethridge",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ryan.ethridge.152100",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-05T03:33:41.717Z"
     }
   ],
-  "lastUpdated": "2026-07-05T03:33:10.060Z"
+  "lastUpdated": "2026-07-05T03:33:41.717Z"
 }
