@@ -17470,7 +17470,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T20:26:49.128Z"
+    },
+    {
+      "id": "mr88tfy169yof1zfwob",
+      "name": "Vitaly Aspidov",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vitaly.aspidov.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T20:27:53.209Z"
     }
   ],
-  "lastUpdated": "2026-07-05T20:26:49.128Z"
+  "lastUpdated": "2026-07-05T20:27:53.209Z"
 }
