@@ -17524,7 +17524,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T20:29:01.261Z"
+    },
+    {
+      "id": "mr88vj4vsfrh5ectnq",
+      "name": "Morgan Perry",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/morgan.perry.1426",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T20:29:30.655Z"
     }
   ],
-  "lastUpdated": "2026-07-05T20:29:01.261Z"
+  "lastUpdated": "2026-07-05T20:29:30.655Z"
 }
