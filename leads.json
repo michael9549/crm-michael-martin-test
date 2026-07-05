@@ -15516,14 +15516,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ryan.basham.73",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-05",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-08",
       "notes": "",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-05",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:36:24.896Z"
     },
@@ -17292,5 +17292,5 @@
       "addedAt": "2026-07-05T03:34:38.156Z"
     }
   ],
-  "lastUpdated": "2026-07-05T17:36:51.304Z"
+  "lastUpdated": "2026-07-05T17:37:54.659Z"
 }
