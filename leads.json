@@ -17735,12 +17735,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-06",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-07-09",
       "notes": "",
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T18:54:53.063Z"
     }
   ],
-  "lastUpdated": "2026-07-06T18:54:53.063Z"
+  "lastUpdated": "2026-07-06T18:55:00.836Z"
 }
