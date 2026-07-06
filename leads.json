@@ -15642,14 +15642,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dannyglover1981",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-06",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-06",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:43:53.582Z"
     },
@@ -17580,5 +17580,5 @@
       "addedAt": "2026-07-05T20:30:29.873Z"
     }
   ],
-  "lastUpdated": "2026-07-06T18:43:28.931Z"
+  "lastUpdated": "2026-07-06T18:43:55.183Z"
 }
