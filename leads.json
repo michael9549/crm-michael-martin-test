@@ -17902,7 +17902,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T19:02:26.133Z"
+    },
+    {
+      "id": "mr9l81wlpa0uih9pb3i",
+      "name": "Loren Solis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/loren.solis.19961",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T19:02:56.421Z"
     }
   ],
-  "lastUpdated": "2026-07-06T19:02:26.133Z"
+  "lastUpdated": "2026-07-06T19:02:56.421Z"
 }
