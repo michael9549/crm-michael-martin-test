@@ -17776,7 +17776,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T18:56:50.695Z"
+    },
+    {
+      "id": "mr9l191uexfr4by8mjo",
+      "name": "Shauna Porubsky",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shaunaporubsky",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T18:57:39.090Z"
     }
   ],
-  "lastUpdated": "2026-07-06T18:56:50.695Z"
+  "lastUpdated": "2026-07-06T18:57:39.090Z"
 }
