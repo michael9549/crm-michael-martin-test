@@ -17650,7 +17650,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T18:51:54.283Z"
+    },
+    {
+      "id": "mr9kv1rka2ag2sr1ldn",
+      "name": "Ethan Lenamond",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ethan.lenamond",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T18:52:49.713Z"
     }
   ],
-  "lastUpdated": "2026-07-06T18:51:54.283Z"
+  "lastUpdated": "2026-07-06T18:52:49.713Z"
 }
