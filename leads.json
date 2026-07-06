@@ -17938,7 +17938,26 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T19:04:26.862Z"
+    },
+    {
+      "id": "mr9ldm0ozo3oql74yrh",
+      "name": "Christopher Sean",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/traderchris1111",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-13",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "customerSince": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-06T19:04:26.862Z"
+  "lastUpdated": "2026-07-06T19:07:15.768Z"
 }
