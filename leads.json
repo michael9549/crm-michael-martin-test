@@ -14886,14 +14886,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bob.severance.165",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-04",
-      "nextFollowUp": "2026-07-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-04",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:02:07.381Z"
     },
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-08T00:36:23.903Z"
+  "lastUpdated": "2026-07-08T00:36:56.810Z"
 }
