@@ -15318,14 +15318,14 @@
       "phone": "",
       "social": "https://www.facebook.com/otto.lou.77",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-05",
-      "nextFollowUp": "2026-07-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-05",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:28:18.820Z"
     },
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-08T17:37:58.599Z"
+  "lastUpdated": "2026-07-08T17:38:28.783Z"
 }
