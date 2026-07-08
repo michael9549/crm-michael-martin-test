@@ -18001,8 +18001,8 @@
       "phone": "",
       "social": "https://www.facebook.com/campasano",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-08",
@@ -18013,5 +18013,5 @@
       "addedAt": "2026-07-08T17:58:10.021Z"
     }
   ],
-  "lastUpdated": "2026-07-08T17:58:10.021Z"
+  "lastUpdated": "2026-07-08T17:59:39.538Z"
 }
