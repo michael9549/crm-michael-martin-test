@@ -17975,7 +17975,25 @@
       "lastModified": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T17:56:20.228Z"
+    },
+    {
+      "id": "mrcdrliqeer8xshwlsj",
+      "name": "Robert Ambrose",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.ambrose.140",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-11",
+      "notes": "",
+      "lastModified": "2026-07-08",
+      "dateAdded": "2026-07-08",
+      "addedAt": "2026-07-08T17:57:29.906Z"
     }
   ],
-  "lastUpdated": "2026-07-08T17:56:20.228Z"
+  "lastUpdated": "2026-07-08T17:57:29.906Z"
 }
