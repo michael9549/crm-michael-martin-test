@@ -2528,14 +2528,14 @@
       "phone": "",
       "social": "https://www.facebook.com/abbjornestad83",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-07-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:17:18.978Z"
     },
@@ -2551,7 +2551,7 @@
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-08",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-07-08",
       "notes": "",
       "lastModified": "2026-07-08",
       "dateAdded": "2026-05-27",
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-08T17:39:51.529Z"
+  "lastUpdated": "2026-07-08T17:42:38.574Z"
 }
