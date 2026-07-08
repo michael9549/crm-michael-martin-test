@@ -17046,14 +17046,14 @@
       "phone": "",
       "social": "https://www.facebook.com/rustam.rakhimovred",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-04",
-      "nextFollowUp": "2026-07-07",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-10",
       "notes": "",
-      "lastModified": "2026-07-04",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T15:01:02.488Z"
     },
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-08T00:08:37.223Z"
+  "lastUpdated": "2026-07-08T00:09:04.946Z"
 }
