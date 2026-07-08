@@ -15498,14 +15498,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jimmy.davenport.1291",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-05",
-      "nextFollowUp": "2026-07-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-05",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:35:52.163Z"
     },
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-08T17:31:34.914Z"
+  "lastUpdated": "2026-07-08T17:32:09.400Z"
 }
