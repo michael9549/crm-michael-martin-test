@@ -17262,14 +17262,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lamar.diener.2025",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-04",
-      "nextFollowUp": "2026-07-07",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-10",
       "notes": "",
-      "lastModified": "2026-07-04",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-05T03:34:10.701Z"
     },
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-07T23:56:24.835Z"
+  "lastUpdated": "2026-07-08T00:03:44.237Z"
 }
