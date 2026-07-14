@@ -18109,14 +18109,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ayoutsey",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-11",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T18:04:57.958Z"
     },
@@ -18158,5 +18158,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-14T01:37:00.118Z"
+  "lastUpdated": "2026-07-14T01:37:36.342Z"
 }
