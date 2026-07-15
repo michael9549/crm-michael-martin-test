@@ -17424,14 +17424,14 @@
       "phone": "",
       "social": "https://www.facebook.com/john.thompson.49694",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-11",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-15",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T19:01:20.068Z"
     },
@@ -18160,5 +18160,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-15T19:08:12.675Z"
+  "lastUpdated": "2026-07-15T19:08:55.142Z"
 }
