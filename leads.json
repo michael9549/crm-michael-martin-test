@@ -17966,16 +17966,17 @@
       "phone": "",
       "social": "https://www.facebook.com/david.tillis.12",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": "2028-07-16",
       "notes": "",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-07-08",
-      "addedAt": "2026-07-08T17:56:20.228Z"
+      "addedAt": "2026-07-08T17:56:20.228Z",
+      "customerSince": "2026-07-16"
     },
     {
       "id": "mrcdrliqeer8xshwlsj",
@@ -18160,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-16T21:16:33.515Z"
+  "lastUpdated": "2026-07-16T21:17:17.029Z"
 }
