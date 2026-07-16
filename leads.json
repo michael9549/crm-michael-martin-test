@@ -18020,14 +18020,14 @@
       "phone": "",
       "social": "https://www.facebook.com/stephen.margison.5",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T17:59:58.260Z"
     },
@@ -18160,5 +18160,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-16T21:15:20.240Z"
+  "lastUpdated": "2026-07-16T21:15:46.078Z"
 }
