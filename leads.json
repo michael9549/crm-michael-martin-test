@@ -7446,14 +7446,14 @@
       "phone": "",
       "social": "https://www.facebook.com/md.foridul.islam.967267",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-07-15",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-15",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:20:40.722Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-17T22:49:12.324Z"
+  "lastUpdated": "2026-07-17T22:49:29.049Z"
 }
