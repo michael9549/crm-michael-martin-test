@@ -15678,14 +15678,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dean.videoremix.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-07-18",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:45:11.613Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-18T17:57:01.754Z"
+  "lastUpdated": "2026-07-18T17:57:53.899Z"
 }
