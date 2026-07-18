@@ -15660,14 +15660,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dbrodyofficial",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-07-18",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:44:28.665Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-18T17:56:27.113Z"
+  "lastUpdated": "2026-07-18T17:57:01.754Z"
 }
