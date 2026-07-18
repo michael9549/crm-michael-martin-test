@@ -8941,14 +8941,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lucky.smith.20153",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-07-18",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-07-18",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:50:38.257Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-18T17:55:13.436Z"
+  "lastUpdated": "2026-07-18T17:55:22.023Z"
 }
