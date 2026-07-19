@@ -15156,14 +15156,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nathan.padilla.58323",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-19",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:11:30.154Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-19T14:44:48.446Z"
+  "lastUpdated": "2026-07-19T14:45:04.954Z"
 }
