@@ -155,10 +155,13 @@
       "category": "Follow-Up",
       "name": "Follow-Up #3",
       "content": "No worries at all {{firstName}}. I've got some people moving forward so I need to prioritize my time, but if timing changes later feel free to reach back out."
+    },
+    {
+      "id": "1784581738298",
+      "category": "Initial Outreach",
+      "name": "Test Script",
+      "content": "This is a test to see if its working with guthub"
     }
   ],
-  "lastUpdated": "2026-07-20T21:05:31.359Z",
-  "migratedFromLocalStorage": true,
-  "migrationCompletedAt": "2026-07-20T21:05:31.359Z",
-  "migrationSource": "browser localStorage"
+  "lastUpdated": "2026-07-20T21:08:58.298Z"
 }
