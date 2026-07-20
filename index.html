@@ -766,30 +766,20 @@
 
     function saveToken() {
       try {
-        alert('Step 1: saveToken called');
         const tokenInput = document.getElementById('github-token');
         if (!tokenInput) {
           alert('Error: Token input field not found');
           return;
         }
-        alert('Step 2: Input field found');
         const token = tokenInput.value.trim();
-        alert('Step 3: Token value = ' + token.substring(0, 10) + '...');
         if (token) {
-          alert('Step 4: Token is valid, saving...');
           GITHUB_TOKEN = token;
           localStorage.setItem('github_token', token);
-          alert('Step 5: Token saved to localStorage');
           showMainApp();
-          alert('Step 6: Main app shown');
           loadLeads();
-          alert('Step 7: Leads loaded');
           loadNoteSnippets();
-          alert('Step 8: Snippets loaded');
           loadScripts();
-          alert('Step 9: Scripts loaded');
           migrateScriptsToGitHub();
-          alert('Step 10: Migration complete');
         } else {
           alert('Please enter a token');
         }
@@ -1584,6 +1574,7 @@
 
     // Default scripts - used when no scripts.json exists yet
     const defaultScripts = [
+      {
         id: 'initial-1',
         category: 'Initial Outreach',
         name: 'Generic Cold DM',
