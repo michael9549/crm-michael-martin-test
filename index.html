@@ -226,7 +226,7 @@
     <div class="container">
       <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
         <div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap;">
-          <h1 style="margin: 0;">Michael Martin - CRM Lead Management</h1>
+          <h1 style="margin: 0;">{{BUILDER_NAME}} - CRM Lead Management</h1>
           <img src="assets/teamabundacebanner.png" alt="Team Abundance" style="height: 70px; width: auto; max-width: 300px; object-fit: contain;">
         </div>
         <a href="https://imabundance.com/" target="_blank" class="button button-secondary" style="text-decoration: none; font-size: 14px;">📊 Team Dashboard</a>
@@ -703,6 +703,7 @@
     let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
     const LEADS_FILE = 'leads.json';
     const SNIPPETS_FILE = 'note-snippets.json';
+    const SCRIPTS_FILE = 'scripts.json';
     
     // Detect repo from current URL (e.g., jeffcasmer.github.io/crm-jeff-casmer)
     function getRepoConfig() {
@@ -736,6 +737,8 @@
         showMainApp();
         loadLeads();
         loadNoteSnippets();
+        loadScripts();
+        migrateScriptsToGitHub();
       } else {
         // Show token entry form
         document.getElementById('token-setup').classList.remove('hidden');
@@ -1565,79 +1568,183 @@
     // Scripts functionality
     let messageScripts = [];
     let currentScriptLead = null;
-
-    // Default scripts
-    const defaultScripts = [
-      {
-        id: 'initial-1',
-        category: 'Initial Outreach',
-        name: 'Generic Cold DM',
-        content: "Hey {{firstName}}, I know we don't know each other, but I came across your profile and wanted to reach out. Not sure if you'd be open to it, but we're expanding and connecting with people interested in creating an additional income stream online."
-      },
-      {
-        id: 'initial-2',
-        category: 'Initial Outreach',
-        name: 'Location Based',
-        content: "Hey {{firstName}}, I know we don't know each other, but I saw you're in [City]. We're expanding there right now and helping people create an extra income stream from home. If you're open to taking a quick look, cool. If not, no worries."
-      },
-      {
-        id: 'followup-1',
-        category: 'Follow-Up',
-        name: 'Follow-Up #1',
-        content: "Hey {{firstName}}, just wanted to circle back and see if you were open to learning more."
-      },
-      {
-        id: 'followup-2',
-        category: 'Follow-Up',
-        name: 'Follow-Up #2',
-        content: "Hey {{firstName}}, haven't heard back from you yet. Totally okay either way — just wanted to follow up before I closed the loop on my end."
-      },
-      {
-        id: 'followup-3',
-        category: 'Follow-Up',
-        name: 'Follow-Up #3',
-        content: "No worries at all {{firstName}}. I've got some people moving forward so I need to prioritize my time, but if timing changes later feel free to reach back out."
-      },
-      {
-        id: 'presentation-1',
-        category: 'Presentation Follow-Up',
-        name: 'After They Watch',
-        content: "Hey {{firstName}}, awesome. What did you like best?"
-      },
-      {
-        id: 'presentation-2',
-        category: 'Presentation Follow-Up',
-        name: 'No Watch Follow-Up',
-        content: "Hey {{firstName}}, just checking in — did you get a chance to watch it yet?"
-      },
-      {
-        id: 'closing-1',
-        category: 'Closing',
-        name: 'Ready to Start',
-        content: "Sounds to me like you're ready to get started {{firstName}}."
-      }
-    ];
+    let scriptsSha = '';
 
     function getFirstName(fullName) {
       if (!fullName) return '';
       return fullName.split(' ')[0];
     }
 
-    function loadScripts() {
-      // Load from localStorage or use defaults
-      const saved = localStorage.getItem('messageScripts');
-      if (saved) {
-        messageScripts = JSON.parse(saved);
-      } else {
+    async function loadScripts() {
+      try {
+        const response = await fetch(
+          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${SCRIPTS_FILE}`,
+          {
+            headers: {
+              'Authorization': `token ${GITHUB_TOKEN}`,
+              'Accept': 'application/vnd.github.v3+json'
+            }
+          }
+        );
+
+        if (response.status === 404) {
+          // File doesn't exist, initialize with defaults
+          messageScripts = [...defaultScripts];
+          await saveScriptsToGitHub();
+        } else if (response.ok) {
+          const data = await response.json();
+          const content = JSON.parse(atob(data.content));
+          messageScripts = content.scripts || [...defaultScripts];
+          scriptsSha = data.sha;
+        } else {
+          console.error('GitHub API error:', response.status, await response.text());
+          messageScripts = [...defaultScripts];
+        }
+      } catch (error) {
+        console.error('Error loading scripts:', error);
         messageScripts = [...defaultScripts];
-        saveScripts();
+      }
+    }
+
+    async function saveScriptsToGitHub() {
+      try {
+        const content = btoa(JSON.stringify({ scripts: messageScripts, lastUpdated: new Date().toISOString() }, null, 2));
+        const response = await fetch(
+          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${SCRIPTS_FILE}`,
+          {
+            method: 'PUT',
+            headers: {
+              'Authorization': `token ${GITHUB_TOKEN}`,
+              'Accept': 'application/vnd.github.v3+json',
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+              message: 'Update message scripts',
+              content,
+              sha: scriptsSha || undefined
+            })
+          }
+        );
+
+        if (response.ok) {
+          const data = await response.json();
+          scriptsSha = data.content.sha;
+          return true;
+        }
+        console.error('Save scripts failed:', await response.text());
+        return false;
+      } catch (error) {
+        console.error('Error saving scripts:', error);
+        return false;
       }
     }
 
     function saveScripts() {
-      localStorage.setItem('messageScripts', JSON.stringify(messageScripts));
+      // This is called from various places, make it async
+      saveScriptsToGitHub().then(success => {
+        if (!success) {
+          console.error('Failed to save scripts to GitHub');
+        }
+      });
     }
 
+    // One-time migration: Move scripts from localStorage to GitHub
+    async function migrateScriptsToGitHub() {
+      try {
+        // Check if migration already happened
+        const migrationDone = localStorage.getItem('scriptsMigratedToGitHub');
+        if (migrationDone === 'true') {
+          console.log('Script migration already completed');
+          return;
+        }
+        
+        // Check if there are scripts in localStorage
+        const savedScripts = localStorage.getItem('messageScripts');
+        if (!savedScripts) {
+          console.log('No localStorage scripts to migrate');
+          localStorage.setItem('scriptsMigratedToGitHub', 'true');
+          return;
+        }
+        
+        const localScripts = JSON.parse(savedScripts);
+        if (!localScripts || localScripts.length === 0) {
+          console.log('Empty localStorage scripts, nothing to migrate');
+          localStorage.setItem('scriptsMigratedToGitHub', 'true');
+          return;
+        }
+        
+        console.log(`Found ${localScripts.length} scripts in localStorage, migrating to GitHub...`);
+        
+        // Try to load existing scripts from GitHub
+        let existingScripts = [];
+        let existingSha = '';
+        
+        try {
+          const response = await fetch(
+            `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${SCRIPTS_FILE}`,
+            {
+              headers: {
+                'Authorization': `token ${GITHUB_TOKEN}`,
+                'Accept': 'application/vnd.github.v3+json'
+              }
+            }
+          );
+          
+          if (response.ok) {
+            const data = await response.json();
+            const content = JSON.parse(atob(data.content));
+            existingScripts = content.scripts || [];
+            existingSha = data.sha;
+            console.log(`Found ${existingScripts.length} existing scripts on GitHub`);
+          }
+        } catch (e) {
+          console.log('No existing scripts on GitHub, creating new file');
+        }
+        
+        // Merge local scripts with existing (local takes precedence for same IDs)
+        const mergedScripts = [...existingScripts];
+        localScripts.forEach(localScript => {
+          const existingIndex = mergedScripts.findIndex(s => s.id === localScript.id);
+          if (existingIndex >= 0) {
+            mergedScripts[existingIndex] = localScript;
+          } else {
+            mergedScripts.push(localScript);
+          }
+        });
+        
+        console.log(`Merged total: ${mergedScripts.length} scripts`);
+        
+        // Save to GitHub
+        const content = btoa(JSON.stringify({ scripts: mergedScripts, lastUpdated: new Date().toISOString() }, null, 2));
+        const response = await fetch(
+          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${SCRIPTS_FILE}`,
+          {
+            method: 'PUT',
+            headers: {
+              'Authorization': `token ${GITHUB_TOKEN}`,
+              'Accept': 'application/vnd.github.v3+json',
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+              message: 'Migrate scripts from localStorage to GitHub',
+              content,
+              sha: existingSha || undefined
+            })
+          }
+        );
+        
+        if (response.ok) {
+          console.log('✅ Scripts successfully migrated to GitHub');
+          localStorage.setItem('scriptsMigratedToGitHub', 'true');
+          // Update the loaded scripts
+          messageScripts = mergedScripts;
+        } else {
+          console.error('Migration failed:', await response.text());
+        }
+      } catch (error) {
+        console.error('Migration error:', error);
+      }
+    }
     function openScriptsModal(leadId) {
       currentScriptLead = leads.find(l => l.id === leadId);
       if (!currentScriptLead) return;
