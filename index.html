@@ -1798,6 +1798,37 @@
       } catch (error) {
         console.error('Migration error:', error);
       }
+    // Recovery function to restore scripts from localStorage backup
+    async function recoverScripts() {
+      try {
+        // Check if there's a backup in localStorage
+        const backupScripts = localStorage.getItem('messageScripts_backup');
+        if (backupScripts) {
+          const scripts = JSON.parse(backupScripts);
+          console.log(`Found ${scripts.length} scripts in backup`);
+          messageScripts = scripts;
+          await saveScriptsToGitHub();
+          alert(`Recovered ${scripts.length} scripts from backup!`);
+          return;
+        }
+        
+        // Check if there's original localStorage data
+        const originalScripts = localStorage.getItem('messageScripts');
+        if (originalScripts) {
+          const scripts = JSON.parse(originalScripts);
+          console.log(`Found ${scripts.length} scripts in localStorage`);
+          messageScripts = scripts;
+          await saveScriptsToGitHub();
+          alert(`Recovered ${scripts.length} scripts from localStorage!`);
+          return;
+        }
+        
+        alert('No backup found. Scripts may be lost.');
+      } catch (error) {
+        console.error('Recovery error:', error);
+        alert('Recovery failed: ' + error.message);
+      }
+    }
     }
     function openScriptsModal(leadId) {
       currentScriptLead = leads.find(l => l.id === leadId);
@@ -2013,6 +2044,7 @@
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
           <div>
             <h2 style="margin: 0;">Message Scripts Manager</h2>
+          <button onclick="recoverScripts()" class="button button-danger" style="font-size: 12px; padding: 6px 12px;">🔄 Recover Scripts</button>
             <p style="color: var(--gray-500); margin: 4px 0 0 0; font-size: 13px;">Drag the handle (⋮⋮) to reorder scripts within each category</p>
           </div>
           <button onclick="openAddScriptModal()" class="button button-primary">+ Add New Script</button>
