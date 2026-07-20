@@ -1,16 +1,142 @@
 {
   "scripts": [
     {
+      "id": "closing-1",
+      "category": "Closing",
+      "name": "Ready to Start",
+      "content": "Sounds to me like you're ready to get started {{firstName}}."
+    },
+    {
+      "id": "presentation-2",
+      "category": "Presentation Follow-Up",
+      "name": "No Watch Follow-Up 1",
+      "content": "Hey {{firstName}}, just wanted to check in and see if you watched the video I sent over.\n"
+    },
+    {
+      "id": "1779480805225",
+      "category": "Presentation Follow-Up",
+      "name": "No Watch Follow Up 2",
+      "content": "Curious, were you able to check it out yet?\n\n"
+    },
+    {
+      "id": "1779484105014",
+      "category": "Presentation Follow-Up",
+      "name": "No Watch Follow-Up 3",
+      "content": "No worries at all if timing’s just bad right now. I’ve got some people already moving forward so I need to prioritize my time a bit, but if you do get a chance to watch it later feel free to reach back out.\n"
+    },
+    {
+      "id": "presentation-1",
+      "category": "Presentation Follow-Up",
+      "name": "After They Watch",
+      "content": "Hey {{firstName}}, awesome. What did you like best?"
+    },
+    {
+      "id": "1779484267281",
+      "category": "Presentation Follow-Up",
+      "name": "If they respond Flexiblity",
+      "content": "Yeah, that’s a big one for a lot of people. What would having more flexibility change for you personally?\n"
+    },
+    {
+      "id": "1779484304431",
+      "category": "Presentation Follow-Up",
+      "name": "If they respond extra income",
+      "content": "Makes sense. What would an additional income stream help you accomplish right now?\n"
+    },
+    {
+      "id": "1779484340749",
+      "category": "Presentation Follow-Up",
+      "name": "I’m interested but not sure.",
+      "content": "Totally fair. What part are you unsure about?\n"
+    },
+    {
+      "id": "1783087182777",
+      "category": "Initial Outreach",
+      "name": "Promo OutReach",
+      "content": "Hey {{firstName}}, I know we don't know each other.\n\nI noticed we have a few mutual friends and wanted to reach out.\n\nI'm connected with a trading education community that's offering a 7-Day Test Drive so people can experience the education before deciding if it's a good fit.\n\nWould you be open to taking a quick look?"
+    },
+    {
+      "id": "1781804393423",
+      "category": "Initial Outreach",
+      "name": "Outreach 1 - friends list",
+      "content": "Hey {{firstName}}, I know we don’t know each other.\n\nI noticed we have some mutual friends and wanted to reach out.\n\nFor the last few years, I’ve been involved with a trading education community that teaches people trading and market analysis as a skill they can learn alongside their current profession.\n\nWould you be open to taking a quick look?"
+    },
+    {
+      "id": "1781804443541",
+      "category": "Initial Outreach",
+      "name": "Outreach 1 - Occupation",
+      "content": "Hey {{firstName}}, I know we don’t know each other.\n\nI noticed you’re in real estate and wanted to reach out.\n\nFor the last few years, I’ve been involved with a trading education community that teaches people trading and market analysis as a skill they can learn alongside their current profession.\n\nWould you be open to taking a quick look?"
+    },
+    {
       "id": "initial-1",
       "category": "Initial Outreach",
       "name": "Generic Cold DM",
-      "content": "Hey {{firstName}}, I know we don't know each other, but I came across your profile and wanted to reach out. Not sure if you'd be open to it, but we're expanding and connecting with people interested in creating an additional income stream online."
+      "content": "Hey {{firstName}}, I know we don't know each other, but I came across your profile and wanted to reach out. Not sure if you'd be open to it, but we're expanding and connecting with people interested in creating an additional income stream online. If you're open to taking a quick look, cool. If not, no worries."
     },
     {
       "id": "initial-2",
       "category": "Initial Outreach",
       "name": "Location Based",
       "content": "Hey {{firstName}}, I know we don't know each other, but I saw you're in [City]. We're expanding there right now and helping people create an extra income stream from home. If you're open to taking a quick look, cool. If not, no worries."
+    },
+    {
+      "id": "1779233101061",
+      "category": "Initial Outreach",
+      "name": "Occupation",
+      "content": "Hey {{firstName}}, I know we don’t know each other, but I noticed you’re a realtor. We work with a lot of people in sales who are looking for an additional stream of income without interfering with what they already do. Open to taking a look?"
+    },
+    {
+      "id": "1779233171830",
+      "category": "Initial Outreach",
+      "name": "Intelligent Comment",
+      "content": "Hey {{firstName}}, I know we don’t know each other, but I saw your comment on that leadership post and honestly agreed with what you said. I work with people focused on growth and entrepreneurship, so I figured I’d reach out. Would you be open to hearing more?\n"
+    },
+    {
+      "id": "1780533816925",
+      "category": "Initial Outreach",
+      "name": "Past Customers",
+      "content": "Hey {{firstName}},\n\nWould you be interested in seeing our updated video? Lots of good changes you might like."
+    },
+    {
+      "id": "1781128697877",
+      "category": "Initial Outreach",
+      "name": "Freinds List",
+      "content": "Hey {{firstName}}, I know we don't know each other, but I'm going through my friends list and noticed we have some mutual friends. I wasn't sure if you'd be open to exploring an additional income stream, but if so, I have a short video that explains what I'm doing. Interested in taking a look?\n"
+    },
+    {
+      "id": "1783087259781",
+      "category": "Follow-Up",
+      "name": "Promo FU - 1",
+      "content": "Hey {{firstName}}, just wanted to bump this in case it got buried.\n\nThe reason I reached out is because a lot of people like the chance to actually experience the education before making any decision.\n\nNo pressure at all, if you're open, I'm happy to send over the overview.\n"
+    },
+    {
+      "id": "1783087308859",
+      "category": "Follow-Up",
+      "name": "Promo FU - 2",
+      "content": "Hey {{firstName}}, quick question...\n\nHave you ever had any interest in learning how to read charts and understand the markets, or is that just not something that's on your radar right now?\n"
+    },
+    {
+      "id": "1783087357870",
+      "category": "Follow-Up",
+      "name": "Promo FU 3",
+      "content": "Hey {{firstName}}, I haven't heard back, so I'm going to focus my time on the people who are moving forward with the 7-Day Test Drive.\n\nIf the timing changes and you'd like to check it out, just let me know. Wishing you all the best.\n"
+    },
+    {
+      "id": "1782170760381",
+      "category": "Follow-Up",
+      "name": "FU - 1",
+      "content": "Hey {{firstName}}, just wanted to circle back on my last message.\n\nNo worries either way, but were you open to taking a quick look at what I mentioned?\n"
+    },
+    {
+      "id": "1782170935314",
+      "category": "Follow-Up",
+      "name": "FU - 2",
+      "content": "Hey {{firstName}}, no pressure at all.\n\nJust curious, have you looked into anything related to trading education or market analysis before?\n"
+    },
+    {
+      "id": "1782170984636",
+      "category": "Follow-Up",
+      "name": "FU - 3",
+      "content": "Hey {{firstName}}, looks like the timing may not be right, which is totally fine.\n\nI've got some others moving forward, so I'm going to focus there for now.\n\nIf anything changes, feel free to reach out.\n"
     },
     {
       "id": "followup-1",
@@ -22,32 +148,17 @@
       "id": "followup-2",
       "category": "Follow-Up",
       "name": "Follow-Up #2",
-      "content": "Hey {{firstName}}, haven't heard back from you yet. Totally okay either way — just wanted to follow up before I closed the loop on my end."
+      "content": "Hey {{firstName}}, haven't heard back from you yet. Totally okay either way, just wanted to follow up before I closed the loop on my end."
     },
     {
       "id": "followup-3",
       "category": "Follow-Up",
       "name": "Follow-Up #3",
       "content": "No worries at all {{firstName}}. I've got some people moving forward so I need to prioritize my time, but if timing changes later feel free to reach back out."
-    },
-    {
-      "id": "presentation-1",
-      "category": "Presentation Follow-Up",
-      "name": "After They Watch",
-      "content": "Hey {{firstName}}, awesome. What did you like best?"
-    },
-    {
-      "id": "presentation-2",
-      "category": "Presentation Follow-Up",
-      "name": "No Watch Follow-Up",
-      "content": "Hey {{firstName}}, just checking in — did you get a chance to watch it yet?"
-    },
-    {
-      "id": "closing-1",
-      "category": "Closing",
-      "name": "Ready to Start",
-      "content": "Sounds to me like you're ready to get started {{firstName}}."
     }
   ],
-  "lastUpdated": "2026-07-20T00:28:00.000Z"
+  "lastUpdated": "2026-07-20T21:05:31.359Z",
+  "migratedFromLocalStorage": true,
+  "migrationCompletedAt": "2026-07-20T21:05:31.359Z",
+  "migrationSource": "browser localStorage"
 }
